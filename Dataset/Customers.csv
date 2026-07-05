@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Region,Membership
+1001,John Davis,Male,26,Chennai,Tamil Nadu,South,Gold
+1002,Noah Johnson,Female,20,Lucknow,Uttar Pradesh,North,Silver
+1003,Meera Reddy,Male,63,Delhi,Delhi,North,Gold
+1004,Anjali Nair,Female,18,Lucknow,Uttar Pradesh,North,Gold
+1005,Sneha Gupta,Male,31,Mumbai,Maharashtra,West,Platinum
+1006,Priya Singh,Female,40,Vijayawada,Andhra Pradesh,South,Gold
+1007,James Johnson,Male,53,Ahmedabad,Gujarat,West,Silver
+1008,Olivia Wilson,Male,20,Bhubaneswar,Odisha,East,Gold
+1009,Emily Wilson,Female,35,Vijayawada,Andhra Pradesh,South,Silver
+1010,Michael Miller,Male,60,Pune,Maharashtra,West,Silver
+1011,Emily Brown,Male,28,Delhi,Delhi,North,Silver
+1012,Meera Kumar,Female,21,Kolkata,West Bengal,East,Silver
+1013,Kiran Singh,Male,31,Mumbai,Maharashtra,West,Platinum
+1014,Kiran Kumar,Female,43,Kolkata,West Bengal,East,Gold
+1015,Michael Davis,Male,65,Bengaluru,Karnataka,South,Silver
+1016,Rohit Singh,Female,41,Lucknow,Uttar Pradesh,North,Silver
+1017,Noah Moore,Male,25,Vijayawada,Andhra Pradesh,South,Silver
+1018,Sneha Sharma,Female,56,Ahmedabad,Gujarat,West,Platinum
+1019,Meera Reddy,Male,61,Kolkata,West Bengal,East,Gold
+1020,Olivia Johnson,Female,28,Mumbai,Maharashtra,West,Silver
+1021,Daniel Brown,Male,58,Delhi,Delhi,North,Silver
+1022,Mia Wilson,Female,28,Bengaluru,Karnataka,South,Silver
+1023,Noah Smith,Female,49,Lucknow,Uttar Pradesh,North,Silver
+1024,Daniel Wilson,Male,54,Hyderabad,Telangana,South,Platinum
+1025,Akhil Sharma,Male,26,Delhi,Delhi,North,Gold
+1026,Michael Davis,Female,31,Delhi,Delhi,North,Platinum
+1027,Sophia Davis,Female,46,Ahmedabad,Gujarat,West,Gold
+1028,Anjali Kumar,Female,19,Vijayawada,Andhra Pradesh,South,Silver
+1029,Anjali Reddy,Male,32,Vijayawada,Andhra Pradesh,South,Silver
+1030,Kiran Sharma,Male,35,Delhi,Delhi,North,Gold
+1031,Arjun Nair,Female,44,Chennai,Tamil Nadu,South,Silver
+1032,Sneha Gupta,Female,47,Ahmedabad,Gujarat,West,Gold
+1033,Priya Reddy,Female,24,Ahmedabad,Gujarat,West,Silver
+1034,Akhil Verma,Male,35,Ahmedabad,Gujarat,West,Silver
+1035,Emily Moore,Male,21,Delhi,Delhi,North,Gold
+1036,Rahul Sharma,Male,44,Chennai,Tamil Nadu,South,Silver
+1037,Sneha Reddy,Female,18,Bengaluru,Karnataka,South,Platinum
+1038,Akhil Patel,Female,27,Ahmedabad,Gujarat,West,Silver
+1039,Rahul Reddy,Female,21,Bhubaneswar,Odisha,East,Silver
+1040,Meera Verma,Male,29,Hyderabad,Telangana,South,Silver
+1041,Anjali Singh,Male,55,Vijayawada,Andhra Pradesh,South,Silver
+1042,Emma Miller,Male,60,Mumbai,Maharashtra,West,Gold
+1043,Sneha Verma,Female,47,Kolkata,West Bengal,East,Silver
+1044,Emily Smith,Male,22,Jaipur,Rajasthan,North,Silver
+1045,Arjun Gupta,Male,41,Vijayawada,Andhra Pradesh,South,Silver
+1046,Meera Patel,Male,60,Lucknow,Uttar Pradesh,North,Gold
+1047,Priya Verma,Male,24,Mumbai,Maharashtra,West,Gold
+1048,Sai Kumar,Female,31,Bhubaneswar,Odisha,East,Gold
+1049,Noah Moore,Male,23,Mumbai,Maharashtra,West,Gold
+1050,John Smith,Male,58,Pune,Maharashtra,West,Platinum
+1051,Akhil Singh,Male,25,Delhi,Delhi,North,Silver
+1052,Michael Smith,Male,45,Pune,Maharashtra,West,Silver
+1053,Rahul Gupta,Male,60,Chennai,Tamil Nadu,South,Silver
+1054,Emma Brown,Male,29,Chennai,Tamil Nadu,South,Gold
+1055,Kiran Singh,Male,35,Kolkata,West Bengal,East,Silver
+1056,Emma Smith,Male,30,Jaipur,Rajasthan,North,Gold
+1057,Sai Kumar,Male,60,Chennai,Tamil Nadu,South,Silver
+1058,Priya Patel,Female,61,Pune,Maharashtra,West,Platinum
+1059,Rahul Sharma,Male,55,Mumbai,Maharashtra,West,Platinum
+1060,Priya Singh,Female,45,Pune,Maharashtra,West,Gold
+1061,Sneha Kumar,Male,63,Mumbai,Maharashtra,West,Silver
+1062,Meera Kumar,Female,22,Pune,Maharashtra,West,Platinum
+1063,Mia Miller,Male,64,Kolkata,West Bengal,East,Platinum
+1064,Sneha Gupta,Female,53,Ahmedabad,Gujarat,West,Silver
+1065,Sneha Verma,Female,43,Lucknow,Uttar Pradesh,North,Silver
+1066,Sai Kumar,Female,47,Ahmedabad,Gujarat,West,Silver
+1067,Noah Moore,Male,60,Bhubaneswar,Odisha,East,Silver
+1068,Rohit Gupta,Male,61,Vijayawada,Andhra Pradesh,South,Silver
+1069,Michael Smith,Male,48,Hyderabad,Telangana,South,Gold
+1070,James Taylor,Male,63,Kolkata,West Bengal,East,Gold
+1071,Anjali Verma,Male,24,Kolkata,West Bengal,East,Gold
+1072,Meera Nair,Male,25,Hyderabad,Telangana,South,Silver
+1073,Noah Miller,Female,53,Jaipur,Rajasthan,North,Silver
+1074,Akhil Nair,Male,58,Mumbai,Maharashtra,West,Silver
+1075,James Wilson,Female,22,Mumbai,Maharashtra,West,Gold
+1076,Kiran Gupta,Male,26,Delhi,Delhi,North,Silver
+1077,Arjun Kumar,Female,44,Vijayawada,Andhra Pradesh,South,Silver
+1078,Rahul Kumar,Female,55,Ahmedabad,Gujarat,West,Platinum
+1079,Rohit Singh,Male,40,Jaipur,Rajasthan,North,Silver
+1080,Sneha Kumar,Male,35,Jaipur,Rajasthan,North,Silver
+1081,Kiran Singh,Male,47,Bhubaneswar,Odisha,East,Platinum
+1082,Noah Smith,Male,23,Ahmedabad,Gujarat,West,Gold
+1083,Akhil Verma,Female,42,Hyderabad,Telangana,South,
+1084,Kiran Singh,Female,34,Mumbai,Maharashtra,West,Gold
+1085,Meera Reddy,Male,59,Pune,Maharashtra,West,Silver
+1086,John Smith,Male,19,Chennai,Tamil Nadu,South,Gold
+1087,Akhil Sharma,Male,47,Lucknow,Uttar Pradesh,North,Gold
+1088,Michael Johnson,Female,24,Bengaluru,Karnataka,South,Silver
+1089,Mia Taylor,Male,22,Ahmedabad,Gujarat,West,Silver
+1090,Sophia Johnson,Female,61,Bhubaneswar,Odisha,East,Gold
+1091,Rohit Reddy,Female,60,Pune,Maharashtra,West,Silver
+1092,Kiran Reddy,Female,24,Ahmedabad,Gujarat,West,Silver
+1093,Akhil Verma,Male,64,Ahmedabad,Gujarat,West,Silver
+1094,Mia Moore,Female,64,Jaipur,Rajasthan,North,Silver
+1095,Anjali Sharma,Female,33,Mumbai,Maharashtra,West,Gold
+1096,Sneha Gupta,Female,38,Hyderabad,Telangana,South,Silver
+1097,Sai Gupta,Female,53,Mumbai,Maharashtra,West,Silver
+1098,Emily Wilson,Female,49,Bhubaneswar,Odisha,East,Silver
+1099,Akhil Nair,Male,23,Jaipur,Rajasthan,North,Silver
+1100,Anjali Patel,Female,48,Kolkata,West Bengal,East,Silver
+1101,Meera Gupta,Female,35,Pune,Maharashtra,West,Silver
+1102,Anjali Gupta,Male,30,Vijayawada,Andhra Pradesh,South,Silver
+1103,Rohit Patel,Male,36,Vijayawada,Andhra Pradesh,South,Silver
+1104,Rahul Verma,Male,21,Mumbai,Maharashtra,West,Silver
+1105,Michael Moore,Male,54,Vijayawada,Andhra Pradesh,South,Silver
+1106,Kiran Verma,Female,48,Hyderabad,Telangana,South,Silver
+1107,Akhil Sharma,Male,27,Lucknow,Uttar Pradesh,North,Silver
+1108,Sai Sharma,Male,53,Chennai,Tamil Nadu,South,Gold
+1109,Mia Wilson,Female,46,Delhi,Delhi,North,Platinum
+1110,Rohit Singh,Male,57,Mumbai,Maharashtra,West,Platinum
+1111,Anjali Kumar,Male,28,Mumbai,Maharashtra,West,Silver
+1112,Arjun Reddy,Female,62,Ahmedabad,Gujarat,West,Silver
+1113,Anjali Patel,Female,62,Bhubaneswar,Odisha,East,Gold
+1114,Anjali Patel,Male,45,Kolkata,West Bengal,East,Silver
+1115,Arjun Patel,Male,21,Bengaluru,Karnataka,South,Silver
+1116,Rohit Patel,Male,47,Jaipur,Rajasthan,North,Gold
+1117,Daniel Moore,Male,56,Jaipur,Rajasthan,North,Silver
+1118,Kiran Patel,Male,32,Hyderabad,Telangana,South,Platinum
+1119,Mia Smith,Female,54,Kolkata,West Bengal,East,Silver
+1120,James Moore,Male,55,Mumbai,Maharashtra,West,Silver
+1121,Emily Moore,Female,39,Pune,Maharashtra,West,Silver
+1122,Arjun Gupta,Female,36,Ahmedabad,Gujarat,West,Gold
+1123,Meera Reddy,Male,38,Jaipur,Rajasthan,North,Silver
+1124,Sneha Reddy,Female,44,Kolkata,West Bengal,East,Silver
+1125,Rohit Nair,Female,21,Kolkata,West Bengal,East,Silver
+1126,Sai Nair,Female,25,Bhubaneswar,Odisha,East,Silver
+1127,Sophia Brown,Male,53,Mumbai,Maharashtra,West,Silver
+1128,Priya Nair,Male,49,Vijayawada,Andhra Pradesh,South,Platinum
+1129,Sai Singh,Female,33,Jaipur,Rajasthan,North,Silver
+1130,Anjali Verma,Female,44,Vijayawada,Andhra Pradesh,South,Silver
+1131,Daniel Smith,Female,55,Mumbai,Maharashtra,West,Silver
+1132,Michael Moore,Female,40,Delhi,Delhi,North,Silver
+1133,Emma Moore,Male,62,Pune,Maharashtra,West,Silver
+1134,Sneha Reddy,Female,63,Pune,Maharashtra,West,Platinum
+1135,Arjun Nair,Male,50,Hyderabad,Telangana,South,Platinum
+1136,Priya Nair,Female,18,Vijayawada,Andhra Pradesh,South,Gold
+1137,Arjun Sharma,Female,39,Jaipur,Rajasthan,North,Gold
+1138,Priya Gupta,Female,38,Kolkata,West Bengal,East,Gold
+1139,James Smith,Male,33,Lucknow,Uttar Pradesh,North,Gold
+1140,Sophia Johnson,Male,58,Ahmedabad,Gujarat,West,Gold
+1141,Arjun Patel,Male,38,Hyderabad,Telangana,South,Gold
+1142,Kiran Singh,Male,51,Bengaluru,Karnataka,South,Silver
+1143,Michael Brown,Male,57,Bengaluru,Karnataka,South,Gold
+1144,Sophia Moore,Male,32,Lucknow,Uttar Pradesh,North,Silver
+1145,Sai Reddy,Female,61,Jaipur,Rajasthan,North,Silver
+1146,Kiran Patel,Female,62,Kolkata,West Bengal,East,Silver
+1147,Sophia Taylor,Male,33,Jaipur,Rajasthan,North,Silver
+1148,Sai Patel,Female,35,Hyderabad,Telangana,South,Silver
+1149,John Moore,Male,56,Mumbai,Maharashtra,West,Gold
+1150,Anjali Patel,Male,58,Kolkata,West Bengal,East,Silver
+1151,John Davis,Male,55,Jaipur,Rajasthan,North,Silver
+1152,Sai Gupta,Female,29,Bhubaneswar,Odisha,East,Silver
+1153,Olivia Davis,Female,48,Bengaluru,Karnataka,South,Platinum
+1154,Kiran Sharma,Male,27,Jaipur,Rajasthan,North,Gold
+1155,Sneha Gupta,Female,18,Vijayawada,Andhra Pradesh,South,Silver
+1156,Kiran Patel,Female,58,Lucknow,Uttar Pradesh,North,Platinum
+1157,Anjali Nair,Female,57,Hyderabad,Telangana,South,Silver
+1158,Akhil Patel,Female,25,Kolkata,West Bengal,East,Silver
+1159,Daniel Moore,Male,33,Vijayawada,Andhra Pradesh,South,Gold
+1160,Akhil Gupta,Female,55,Kolkata,West Bengal,East,Gold
+1161,Sneha Sharma,Female,35,Jaipur,Rajasthan,North,Silver
+1162,Akhil Nair,Female,24,Chennai,Tamil Nadu,South,Platinum
+1163,Kiran Reddy,Female,30,Ahmedabad,Gujarat,West,Platinum
+1164,James Johnson,Male,59,Kolkata,West Bengal,East,Gold
+1165,John Miller,Male,54,Chennai,Tamil Nadu,South,Silver
+1166,Noah Wilson,Male,32,Lucknow,Uttar Pradesh,North,Silver
+1167,Rohit Reddy,Male,26,Mumbai,Maharashtra,West,Silver
+1168,Emily Smith,Male,40,Bengaluru,Karnataka,South,Gold
+1169,Kiran Reddy,Female,21,Bengaluru,Karnataka,South,Silver
+1170,Priya Sharma,Female,41,Jaipur,Rajasthan,North,Silver
+1171,Meera Kumar,Male,64,Lucknow,Uttar Pradesh,North,Gold
+1172,Noah Davis,Male,21,Jaipur,Rajasthan,North,Platinum
+1173,Emma Johnson,Female,22,Jaipur,Rajasthan,North,Gold
+1174,Arjun Sharma,Female,57,Bengaluru,Karnataka,South,Gold
+1175,Kiran Singh,Female,47,Lucknow,Uttar Pradesh,North,Silver
+1176,Priya Kumar,Female,32,Ahmedabad,Gujarat,West,Silver
+1177,Emma Taylor,Male,38,Bhubaneswar,Odisha,East,Silver
+1178,Olivia Brown,Female,22,Kolkata,West Bengal,East,Silver
+1179,Sneha Sharma,Female,26,Bhubaneswar,Odisha,East,Silver
+1180,Meera Gupta,Male,44,Kolkata,West Bengal,East,Silver
+1181,Emma Smith,Female,40,Mumbai,Maharashtra,West,Silver
+1182,Arjun Nair,Male,40,Chennai,Tamil Nadu,South,Gold
+1183,Sai Kumar,Male,56,Ahmedabad,Gujarat,West,Platinum
+1184,Daniel Smith,Female,62,Bengaluru,Karnataka,South,Gold
+1185,Olivia Smith,Male,54,Bengaluru,Karnataka,South,Gold
+1186,Rahul Sharma,Male,42,Bhubaneswar,Odisha,East,Silver
+1187,Kiran Patel,Female,54,Bhubaneswar,Odisha,East,Silver
+1188,Michael Brown,Male,61,Lucknow,Uttar Pradesh,North,Silver
+1189,Sneha Nair,Female,44,Lucknow,Uttar Pradesh,North,Silver
+1190,Emily Miller,Male,36,Ahmedabad,Gujarat,West,Gold
+1191,Meera Patel,Male,43,Hyderabad,Telangana,South,Platinum
+1192,Anjali Patel,Male,34,Chennai,Tamil Nadu,South,Silver
+1193,Akhil Singh,Male,42,Bengaluru,Karnataka,South,Silver
+1194,Meera Gupta,Female,65,Vijayawada,Andhra Pradesh,South,Silver
+1195,Priya Gupta,Female,54,Lucknow,Uttar Pradesh,North,Silver
+1196,Daniel Johnson,Male,38,Ahmedabad,Gujarat,West,Silver
+1197,James Miller,Female,24,Vijayawada,Andhra Pradesh,South,Silver
+1198,Meera Sharma,Female,65,Ahmedabad,Gujarat,West,Silver
+1199,Arjun Sharma,Male,51,Delhi,Delhi,North,Silver
+1200,Olivia Miller,Male,33,Bhubaneswar,Odisha,East,Silver
+1201,Arjun Verma,Male,29,Kolkata,West Bengal,East,Platinum
+1202,James Moore,Female,58,Kolkata,West Bengal,East,Silver
+1203,Akhil Nair,Female,35,Kolkata,West Bengal,East,Silver
+1204,Priya Patel,Female,20,Jaipur,Rajasthan,North,Silver
+1205,Emily Johnson,Female,47,Lucknow,Uttar Pradesh,North,Silver
+1206,John Moore,Male,38,Lucknow,Uttar Pradesh,North,Gold
+1207,Rahul Nair,Female,63,Vijayawada,Andhra Pradesh,South,Silver
+1208,John Wilson,Female,46,Bhubaneswar,Odisha,East,Silver
+1209,Olivia Miller,Female,44,Mumbai,Maharashtra,West,Gold
+1210,John Miller,Female,24,Vijayawada,Andhra Pradesh,South,Silver
+1211,Sai Verma,Male,55,Pune,Maharashtra,West,Gold
+1212,Daniel Taylor,Male,37,Bengaluru,Karnataka,South,Silver
+1213,Olivia Brown,Male,59,Kolkata,West Bengal,East,Gold
+1214,Rahul Gupta,Male,31,Mumbai,Maharashtra,West,Silver
+1215,Sophia Wilson,Male,22,Bengaluru,Karnataka,South,Silver
+1216,Noah Smith,Female,57,Kolkata,West Bengal,East,Silver
+1217,Arjun Verma,Male,64,Bhubaneswar,Odisha,East,Silver
+1218,Anjali Nair,Female,65,Lucknow,Uttar Pradesh,North,Gold
+1219,Anjali Patel,Male,41,Jaipur,Rajasthan,North,Gold
+1220,Akhil Nair,Female,50,Mumbai,Maharashtra,West,Silver
+1221,Sophia Brown,Male,59,Mumbai,Maharashtra,West,Silver
+1222,Priya Sharma,Male,28,Mumbai,Maharashtra,West,Silver
+1223,Michael Taylor,Male,46,Vijayawada,Andhra Pradesh,South,Gold
+1224,Emma Smith,Female,33,Ahmedabad,Gujarat,West,Silver
+1225,Anjali Reddy,Male,63,Pune,Maharashtra,West,Gold
+1226,Michael Smith,Female,62,Mumbai,Maharashtra,West,Gold
+1227,James Moore,Male,23,Lucknow,Uttar Pradesh,North,Silver
+1228,Arjun Singh,Female,33,Vijayawada,Andhra Pradesh,South,Silver
+1229,Sneha Nair,Male,49,Vijayawada,Andhra Pradesh,South,Silver
+1230,Meera Kumar,Male,36,Bhubaneswar,Odisha,East,Silver
+1231,Sophia Taylor,Male,51,Bengaluru,Karnataka,South,Platinum
+1232,Meera Reddy,Female,20,Ahmedabad,Gujarat,West,Gold
+1233,Daniel Smith,Male,40,Pune,Maharashtra,West,Silver
+1234,Emily Miller,Male,40,Bengaluru,Karnataka,South,Silver
+1235,Michael Moore,Female,58,Bhubaneswar,Odisha,East,Silver
+1236,Akhil Reddy,Male,20,Mumbai,Maharashtra,West,Gold
+1237,Olivia Davis,Female,52,Delhi,Delhi,North,Silver
+1238,Anjali Patel,Male,59,Pune,Maharashtra,West,Silver
+1239,Kiran Singh,Female,42,Ahmedabad,Gujarat,West,Silver
+1240,Akhil Gupta,Female,23,Delhi,Delhi,North,Gold
+1241,Rohit Verma,Female,38,Delhi,Delhi,North,Silver
+1242,Sai Patel,Female,28,Jaipur,Rajasthan,North,Gold
+1243,Rahul Gupta,Female,35,Lucknow,Uttar Pradesh,North,Gold
+1244,John Johnson,Female,41,Kolkata,West Bengal,East,Silver
+1245,Michael Smith,Female,20,Bengaluru,Karnataka,South,Silver
+1246,Kiran Gupta,Male,56,Ahmedabad,Gujarat,West,Silver
+1247,Kiran Gupta,Male,54,Jaipur,Rajasthan,North,Silver
+1248,Kiran Patel,Male,19,Chennai,Tamil Nadu,South,Gold
+1249,Sneha Sharma,Female,63,Mumbai,Maharashtra,West,Silver
+1250,Daniel Moore,Male,26,Chennai,Tamil Nadu,South,Gold
+1251,Akhil Sharma,Female,60,Kolkata,West Bengal,East,Silver
+1252,Meera Patel,Male,63,Mumbai,Maharashtra,West,Gold
+1253,Michael Miller,Male,25,Delhi,Delhi,North,Platinum
+1254,Sophia Moore,Female,53,Hyderabad,Telangana,South,Silver
+1255,Meera Verma,Male,22,Lucknow,Uttar Pradesh,North,Silver
+1256,James Taylor,Male,26,Ahmedabad,Gujarat,West,Platinum
+1257,James Moore,Female,26,Kolkata,West Bengal,East,Gold
+1258,Mia Brown,Female,50,Bengaluru,Karnataka,South,Platinum
+1259,Priya Verma,Male,28,Mumbai,Maharashtra,West,Silver
+1260,Olivia Davis,Female,30,Vijayawada,Andhra Pradesh,South,Gold
+1261,Arjun Patel,Male,50,Lucknow,Uttar Pradesh,North,Gold
+1262,Rohit Verma,Female,54,Bengaluru,Karnataka,South,Silver
+1263,Emily Smith,Female,59,Kolkata,West Bengal,East,Silver
+1264,Rohit Reddy,Female,59,Jaipur,Rajasthan,North,Platinum
+1265,Sneha Patel,Male,62,Jaipur,Rajasthan,North,Silver
+1266,Akhil Nair,Female,56,Chennai,Tamil Nadu,South,Silver
+1267,Olivia Miller,Male,41,Ahmedabad,Gujarat,West,Silver
+1268,Anjali Nair,Female,46,Vijayawada,Andhra Pradesh,South,Silver
+1269,Sai Singh,Female,33,Lucknow,Uttar Pradesh,North,Platinum
+1270,Olivia Miller,Male,49,Chennai,Tamil Nadu,South,Platinum
+1271,Sai Nair,Male,43,Hyderabad,Telangana,South,Silver
+1272,Sophia Miller,Male,36,Hyderabad,Telangana,South,Silver
+1273,James Davis,Male,24,Delhi,Delhi,North,Silver
+1274,Olivia Taylor,Male,43,Pune,Maharashtra,West,Silver
+1275,Kiran Patel,Female,50,Vijayawada,Andhra Pradesh,South,Silver
+1276,Rohit Sharma,Male,43,Bengaluru,Karnataka,South,Silver
+1277,Noah Miller,Male,56,Bengaluru,Karnataka,South,Silver
+1278,Rahul Reddy,Female,48,Bengaluru,Karnataka,South,Silver
+1279,Meera Verma,Female,28,Pune,Maharashtra,West,Silver
+1280,Daniel Miller,Female,63,Delhi,Delhi,North,Silver
+1281,Rahul Gupta,Male,44,Pune,Maharashtra,West,Silver
+1282,John Moore,Male,64,Mumbai,Maharashtra,West,Silver
+1283,Meera Singh,Male,20,Bengaluru,Karnataka,South,Silver
+1284,Sophia Smith,Female,44,Jaipur,Rajasthan,North,Silver
+1285,Emma Moore,Male,63,Bhubaneswar,Odisha,East,Silver
+1286,Kiran Nair,Female,38,Delhi,Delhi,North,Platinum
+1287,Meera Gupta,Female,61,Delhi,Delhi,North,Gold
+1288,Daniel Moore,Male,35,Chennai,Tamil Nadu,South,Silver
+1289,Sai Patel,Male,62,Bhubaneswar,Odisha,East,Gold
+1290,Kiran Patel,Male,54,Mumbai,Maharashtra,West,Gold
+1291,Sneha Gupta,Female,20,Bengaluru,Karnataka,South,Silver
+1292,Olivia Moore,Female,65,Kolkata,West Bengal,East,Silver
+1293,Meera Patel,Female,26,Delhi,Delhi,North,Silver
+1294,Sophia Wilson,Male,58,Hyderabad,Telangana,South,Silver
+1295,Kiran Nair,Male,18,Vijayawada,Andhra Pradesh,South,Platinum
+1296,Michael Taylor,Female,48,Kolkata,West Bengal,East,Gold
+1297,Daniel Miller,Male,23,Mumbai,Maharashtra,West,Gold
+1298,Rahul Verma,Male,20,Ahmedabad,Gujarat,West,Platinum
+1299,Akhil Verma,Female,20,Bhubaneswar,Odisha,East,Silver
+1300,Priya Gupta,Female,59,Mumbai,Maharashtra,West,Silver
+1301,Arjun Nair,Male,25,Mumbai,Maharashtra,West,Silver
+1302,Daniel Brown,Female,36,Hyderabad,Telangana,South,Silver
+1303,Michael Taylor,Female,23,Ahmedabad,Gujarat,West,Silver
+1304,Arjun Nair,Male,18,Pune,Maharashtra,West,Silver
+1305,Sai Gupta,Male,34,Mumbai,Maharashtra,West,Gold
+1306,John Johnson,Female,28,Jaipur,Rajasthan,North,Silver
+1307,Sai Sharma,Female,41,Kolkata,West Bengal,East,Gold
+1308,Arjun Nair,Female,65,Bengaluru,Karnataka,South,Platinum
+1309,Meera Nair,Male,33,Delhi,Delhi,North,Gold
+1310,Priya Nair,Female,22,Delhi,Delhi,North,Platinum
+1311,Meera Kumar,Male,28,Lucknow,Uttar Pradesh,North,Silver
+1312,Priya Kumar,Female,23,Bhubaneswar,Odisha,East,Gold
+1313,Rahul Nair,Female,47,Bengaluru,Karnataka,South,Silver
+1314,Sai Reddy,Female,18,Ahmedabad,Gujarat,West,Gold
+1315,Rahul Singh,Male,52,Pune,Maharashtra,West,Platinum
+1316,Emily Moore,Female,44,Hyderabad,Telangana,South,Silver
+1317,Sneha Gupta,Female,42,Ahmedabad,Gujarat,West,Silver
+1318,Noah Brown,Female,25,Kolkata,West Bengal,East,Silver
+1319,Meera Verma,Male,18,Bhubaneswar,Odisha,East,Gold
+1320,James Taylor,Female,32,Delhi,Delhi,North,Silver
+1321,Sai Kumar,Male,20,Bhubaneswar,Odisha,East,Gold
+1322,Rahul Kumar,Male,24,Chennai,Tamil Nadu,South,Silver
+1323,Rahul Kumar,Male,43,Bhubaneswar,Odisha,East,Silver
+1324,Rahul Verma,Female,32,Delhi,Delhi,North,Gold
+1325,Olivia Miller,Female,27,Chennai,Tamil Nadu,South,Platinum
+1326,Sneha Patel,Male,53,Mumbai,Maharashtra,West,Platinum
+1327,Michael Taylor,Female,21,Delhi,Delhi,North,Platinum
+1328,Emma Miller,Female,44,Bhubaneswar,Odisha,East,Silver
+1329,Meera Nair,Male,37,Chennai,Tamil Nadu,South,Gold
+1330,Akhil Reddy,Female,44,Delhi,Delhi,North,Silver
+1331,Anjali Patel,Female,59,Chennai,Tamil Nadu,South,Silver
+1332,Kiran Sharma,Male,21,Delhi,Delhi,North,Silver
+1333,Mia Smith,Male,55,Vijayawada,Andhra Pradesh,South,Gold
+1334,Akhil Kumar,Female,18,Pune,Maharashtra,West,Silver
+1335,Priya Nair,Male,43,Chennai,Tamil Nadu,South,Platinum
+1336,Sai Singh,Female,37,Jaipur,Rajasthan,North,Silver
+1337,Akhil Nair,Female,38,Vijayawada,Andhra Pradesh,South,Platinum
+1338,Sneha Reddy,Male,65,Lucknow,Uttar Pradesh,North,Silver
+1339,Rohit Singh,Male,30,Mumbai,Maharashtra,West,Silver
+1340,Anjali Nair,Female,34,Delhi,Delhi,North,Gold
+1341,Akhil Nair,Female,28,Bengaluru,Karnataka,South,Silver
+1342,Arjun Reddy,Male,22,Delhi,Delhi,North,Platinum
+1343,John Taylor,Male,22,Bengaluru,Karnataka,South,Gold
+1344,Meera Nair,Male,57,Pune,Maharashtra,West,Gold
+1345,James Moore,Male,52,Hyderabad,Telangana,South,Silver
+1346,Meera Patel,Female,19,Delhi,Delhi,North,Silver
+1347,Emma Brown,Male,51,Vijayawada,Andhra Pradesh,South,Silver
+1348,Meera Patel,Female,43,Pune,Maharashtra,West,Silver
+1349,James Wilson,Male,37,Bhubaneswar,Odisha,East,Gold
+1350,John Johnson,Female,42,Ahmedabad,Gujarat,West,Silver
+1351,Rahul Verma,Female,45,Vijayawada,Andhra Pradesh,South,Gold
+1352,Priya Reddy,Male,62,Chennai,Tamil Nadu,South,Gold
+1353,Rahul Sharma,Female,52,Kolkata,West Bengal,East,Silver
+1354,Kiran Reddy,Male,63,Chennai,Tamil Nadu,South,Gold
+1355,Daniel Brown,Male,54,Lucknow,Uttar Pradesh,North,Gold
+1356,Meera Gupta,Male,62,Ahmedabad,Gujarat,West,Gold
+1357,Kiran Reddy,Female,32,Vijayawada,Andhra Pradesh,South,Gold
+1358,Rohit Singh,Male,58,Pune,Maharashtra,West,Silver
+1359,James Wilson,Female,45,Pune,Maharashtra,West,Silver
+1360,Sneha Sharma,Female,33,Lucknow,Uttar Pradesh,North,Gold
+1361,Arjun Singh,Male,65,Bhubaneswar,Odisha,East,Silver
+1362,Priya Reddy,Female,41,Mumbai,Maharashtra,West,Gold
+1363,Priya Verma,Female,53,Ahmedabad,Gujarat,West,Silver
+1364,Rahul Sharma,Male,56,Pune,Maharashtra,West,Silver
+1365,Sneha Reddy,Female,42,Mumbai,Maharashtra,West,Gold
+1366,Noah Wilson,Male,61,Lucknow,Uttar Pradesh,North,Silver
+1367,Sai Patel,Male,22,Jaipur,Rajasthan,North,Silver
+1368,Sai Nair,Female,34,Vijayawada,Andhra Pradesh,South,Platinum
+1369,James Wilson,Male,26,Jaipur,Rajasthan,North,Silver
+1370,Olivia Taylor,Female,39,Pune,Maharashtra,West,Silver
+1371,Mia Brown,Female,56,Mumbai,Maharashtra,West,Platinum
+1372,Kiran Verma,Female,36,Ahmedabad,Gujarat,West,Gold
+1373,Mia Wilson,Female,35,Pune,Maharashtra,West,Gold
+1374,Priya Kumar,Male,61,Lucknow,Uttar Pradesh,North,
+1375,Akhil Kumar,Female,62,Jaipur,Rajasthan,North,Silver
+1376,Emma Moore,Female,33,Bengaluru,Karnataka,South,Silver
+1377,Sneha Singh,Female,56,Vijayawada,Andhra Pradesh,South,Silver
+1378,Meera Singh,Male,41,Delhi,Delhi,North,Gold
+1379,Mia Johnson,Male,60,Vijayawada,Andhra Pradesh,South,Gold
+1380,Rohit Reddy,Female,39,Lucknow,Uttar Pradesh,North,Platinum
+1381,Rahul Sharma,Male,50,Mumbai,Maharashtra,West,Gold
+1382,Rohit Kumar,Female,43,Jaipur,Rajasthan,North,Silver
+1383,Noah Brown,Male,48,Pune,Maharashtra,West,Silver
+1384,Priya Sharma,Male,40,Bhubaneswar,Odisha,East,Silver
+1385,Anjali Nair,Female,24,Pune,Maharashtra,West,Silver
+1386,Olivia Johnson,Male,63,Mumbai,Maharashtra,West,Silver
+1387,Emily Brown,Male,51,Bhubaneswar,Odisha,East,Silver
+1388,Meera Singh,Male,43,Jaipur,Rajasthan,North,Gold
+1389,Sneha Singh,Male,46,Hyderabad,Telangana,South,Silver
+1390,Anjali Kumar,Male,54,Mumbai,Maharashtra,West,Silver
+1391,Michael Miller,Male,47,Pune,Maharashtra,West,Silver
+1392,James Miller,Female,57,Lucknow,Uttar Pradesh,North,Silver
+1393,Kiran Nair,Male,61,Lucknow,Uttar Pradesh,North,Gold
+1394,Rohit Sharma,Male,38,Kolkata,West Bengal,East,Silver
+1395,Arjun Gupta,Male,50,Bhubaneswar,Odisha,East,Silver
+1396,Rohit Singh,Male,49,Ahmedabad,Gujarat,West,Gold
+1397,Michael Brown,Female,26,Jaipur,Rajasthan,North,Silver
+1398,Mia Smith,Male,49,Pune,Maharashtra,West,Silver
+1399,Noah Moore,Female,44,Ahmedabad,Gujarat,West,Gold
+1400,Arjun Sharma,Male,32,Lucknow,Uttar Pradesh,North,Silver
+1401,Meera Patel,Female,54,Bengaluru,Karnataka,South,Gold
+1402,Noah Johnson,Male,35,Lucknow,Uttar Pradesh,North,Gold
+1403,Olivia Smith,Female,52,Bhubaneswar,Odisha,East,Silver
+1404,Anjali Patel,Female,34,Hyderabad,Telangana,South,Silver
+1405,James Johnson,Male,65,Chennai,Tamil Nadu,South,Silver
+1406,Rohit Singh,Male,31,Bengaluru,Karnataka,South,Gold
+1407,Mia Miller,Female,56,Delhi,Delhi,North,Silver
+1408,Sai Patel,Female,50,Lucknow,Uttar Pradesh,North,Platinum
+1409,Emily Brown,Male,35,Ahmedabad,Gujarat,West,Gold
+1410,Arjun Kumar,Female,33,Bengaluru,Karnataka,South,Gold
+1411,James Brown,Female,58,Lucknow,Uttar Pradesh,North,Silver
+1412,Priya Singh,Female,62,Delhi,Delhi,North,Platinum
+1413,Akhil Gupta,Male,64,Lucknow,Uttar Pradesh,North,Silver
+1414,Olivia Johnson,Female,31,Delhi,Delhi,North,Platinum
+1415,James Davis,Female,39,Pune,Maharashtra,West,Silver
+1416,Akhil Gupta,Male,20,Kolkata,West Bengal,East,Silver
+1417,James Smith,Male,46,Vijayawada,Andhra Pradesh,South,Silver
+1418,Emma Wilson,Male,59,Bhubaneswar,Odisha,East,Silver
+1419,Daniel Johnson,Female,34,Kolkata,West Bengal,East,Silver
+1420,Michael Smith,Female,64,Ahmedabad,Gujarat,West,Gold
+1421,Priya Sharma,Male,48,Hyderabad,Telangana,South,Silver
+1422,Meera Nair,Male,62,Hyderabad,Telangana,South,Silver
+1423,Sneha Verma,Male,32,Jaipur,Rajasthan,North,Silver
+1424,Emily Johnson,Female,37,Pune,Maharashtra,West,Silver
+1425,Michael Brown,Male,57,Vijayawada,Andhra Pradesh,South,Gold
+1426,Anjali Verma,Female,31,Ahmedabad,Gujarat,West,
+1427,Priya Singh,Female,38,Pune,Maharashtra,West,
+1428,Priya Kumar,Female,62,Delhi,Delhi,North,Silver
+1429,Daniel Wilson,Male,65,Delhi,Delhi,North,Silver
+1430,Sophia Moore,Male,33,Ahmedabad,Gujarat,West,Silver
+1431,Meera Reddy,Female,26,Pune,Maharashtra,West,Silver
+1432,Emma Miller,Male,48,Delhi,Delhi,North,
+1433,John Johnson,Female,31,Hyderabad,Telangana,South,Silver
+1434,Sneha Patel,Female,45,Kolkata,West Bengal,East,Gold
+1435,Meera Verma,Male,37,Mumbai,Maharashtra,West,Silver
+1436,Michael Miller,Male,37,Ahmedabad,Gujarat,West,Gold
+1437,Sophia Smith,Male,45,Chennai,Tamil Nadu,South,Silver
+1438,John Davis,Male,25,Kolkata,West Bengal,East,Silver
+1439,Rahul Verma,Female,51,Jaipur,Rajasthan,North,Silver
+1440,Daniel Brown,Male,65,Pune,Maharashtra,West,Gold
+1441,Priya Reddy,Female,35,Pune,Maharashtra,West,Silver
+1442,Rohit Sharma,Female,50,Jaipur,Rajasthan,North,Silver
+1443,Rohit Verma,Male,34,Pune,Maharashtra,West,Gold
+1444,Emily Wilson,Male,20,Bhubaneswar,Odisha,East,Gold
+1445,Rahul Nair,Female,27,Pune,Maharashtra,West,Silver
+1446,John Taylor,Female,33,Chennai,Tamil Nadu,South,Silver
+1447,Daniel Johnson,Female,25,Lucknow,Uttar Pradesh,North,Silver
+1448,Michael Wilson,Male,43,Delhi,Delhi,North,Silver
+1449,Sai Patel,Male,53,Pune,Maharashtra,West,Silver
+1450,Sai Patel,Male,47,Bhubaneswar,Odisha,East,Silver
+1451,Sophia Wilson,Male,44,Bengaluru,Karnataka,South,Silver
+1452,Rahul Gupta,Female,65,Hyderabad,Telangana,South,Gold
+1453,Meera Kumar,Female,21,Ahmedabad,Gujarat,West,Platinum
+1454,Sai Sharma,Male,51,Hyderabad,Telangana,South,Silver
+1455,James Johnson,Male,50,Lucknow,Uttar Pradesh,North,Silver
+1456,Emily Smith,Male,33,Ahmedabad,Gujarat,West,Silver
+1457,Emma Miller,Female,35,Pune,Maharashtra,West,Silver
+1458,Michael Johnson,Male,28,Bengaluru,Karnataka,South,Silver
+1459,Priya Gupta,Female,37,Chennai,Tamil Nadu,South,Silver
+1460,Emily Brown,Female,63,Kolkata,West Bengal,East,Gold
+1461,Kiran Verma,Male,40,Vijayawada,Andhra Pradesh,South,Silver
+1462,Sai Patel,Male,43,Bengaluru,Karnataka,South,Gold
+1463,Meera Kumar,Female,24,Vijayawada,Andhra Pradesh,South,Gold
+1464,Rahul Reddy,Male,30,Chennai,Tamil Nadu,South,Gold
+1465,Priya Patel,Male,22,Vijayawada,Andhra Pradesh,South,Silver
+1466,Michael Johnson,Male,20,Pune,Maharashtra,West,Platinum
+1467,Rohit Singh,Female,49,Bhubaneswar,Odisha,East,Silver
+1468,Michael Miller,Male,35,Chennai,Tamil Nadu,South,Silver
+1469,John Wilson,Female,49,Kolkata,West Bengal,East,Silver
+1470,Rahul Sharma,Female,26,Mumbai,Maharashtra,West,Silver
+1471,Noah Wilson,Male,42,Kolkata,West Bengal,East,Gold
+1472,Meera Nair,Female,42,Pune,Maharashtra,West,Silver
+1473,Rohit Kumar,Female,21,Hyderabad,Telangana,South,Gold
+1474,Kiran Kumar,Male,33,Bengaluru,Karnataka,South,Gold
+1475,Rahul Kumar,Female,40,Lucknow,Uttar Pradesh,North,Platinum
+1476,Michael Brown,Female,65,Chennai,Tamil Nadu,South,Gold
+1477,John Miller,Male,54,Lucknow,Uttar Pradesh,North,Platinum
+1478,James Davis,Female,20,Bengaluru,Karnataka,South,Silver
+1479,Anjali Reddy,Female,18,Delhi,Delhi,North,Silver
+1480,Michael Miller,Male,38,Bhubaneswar,Odisha,East,Silver
+1481,Arjun Sharma,Female,22,Delhi,Delhi,North,Silver
+1482,Emma Johnson,Female,38,Pune,Maharashtra,West,Silver
+1483,Sneha Nair,Female,29,Kolkata,West Bengal,East,Gold
+1484,Rohit Gupta,Male,42,Chennai,Tamil Nadu,South,Silver
+1485,Michael Brown,Male,62,Bhubaneswar,Odisha,East,Platinum
+1486,Rohit Reddy,Female,57,Bengaluru,Karnataka,South,Silver
+1487,Akhil Verma,Male,33,Pune,Maharashtra,West,Silver
+1488,Priya Gupta,Male,34,Jaipur,Rajasthan,North,Silver
+1489,Olivia Davis,Male,21,Vijayawada,Andhra Pradesh,South,Silver
+1490,Michael Taylor,Female,40,Jaipur,Rajasthan,North,Silver
+1491,Akhil Kumar,Female,22,Bengaluru,Karnataka,South,Gold
+1492,Rahul Gupta,Male,22,Mumbai,Maharashtra,West,Silver
+1493,Michael Johnson,Male,39,Delhi,Delhi,North,Silver
+1494,James Smith,Male,56,Ahmedabad,Gujarat,West,Gold
+1495,Priya Gupta,Male,44,Chennai,Tamil Nadu,South,Gold
+1496,Noah Davis,Female,37,Kolkata,West Bengal,East,Silver
+1497,Rohit Nair,Male,41,Bengaluru,Karnataka,South,Silver
+1498,Rohit Nair,Male,19,Chennai,Tamil Nadu,South,Silver
+1499,Emily Moore,Female,43,Vijayawada,Andhra Pradesh,South,Silver
+1500,Daniel Johnson,Female,29,Kolkata,West Bengal,East,Silver
+1501,Arjun Nair,Female,46,Hyderabad,Telangana,South,Silver
+1502,Sai Reddy,Male,23,Bengaluru,Karnataka,South,Gold
+1503,Emma Wilson,Male,42,Delhi,Delhi,North,Gold
+1504,Meera Nair,Male,48,Lucknow,Uttar Pradesh,North,Silver
+1505,Rahul Verma,Female,29,Vijayawada,Andhra Pradesh,South,Platinum
+1506,Anjali Kumar,Male,45,Bengaluru,Karnataka,South,Silver
+1507,Sophia Brown,Female,38,Lucknow,Uttar Pradesh,North,Platinum
+1508,Emily Johnson,Female,53,Ahmedabad,Gujarat,West,Silver
+1509,Akhil Reddy,Female,25,Bhubaneswar,Odisha,East,Silver
+1510,Rohit Sharma,Male,36,Vijayawada,Andhra Pradesh,South,Gold
+1511,Emma Davis,Female,54,Ahmedabad,Gujarat,West,Gold
+1512,Sai Singh,Female,20,Bengaluru,Karnataka,South,Silver
+1513,Sophia Smith,Female,35,Bhubaneswar,Odisha,East,Gold
+1514,Sai Patel,Female,62,Mumbai,Maharashtra,West,Gold
+1515,Sophia Brown,Female,38,Mumbai,Maharashtra,West,Silver
+1516,Priya Kumar,Male,44,Jaipur,Rajasthan,North,Gold
+1517,Olivia Smith,Male,22,Delhi,Delhi,North,Silver
+1518,Arjun Reddy,Male,30,Bengaluru,Karnataka,South,Gold
+1519,Akhil Reddy,Male,35,Pune,Maharashtra,West,Silver
+1520,Sneha Sharma,Male,33,Kolkata,West Bengal,East,Silver
+1521,Arjun Nair,Female,40,Lucknow,Uttar Pradesh,North,Silver
+1522,Emily Davis,Female,21,Hyderabad,Telangana,South,Silver
+1523,Anjali Kumar,Male,61,Kolkata,West Bengal,East,Silver
+1524,Noah Smith,Male,48,Kolkata,West Bengal,East,Platinum
+1525,Mia Smith,Female,56,Chennai,Tamil Nadu,South,Gold
+1526,Sai Singh,Female,47,Ahmedabad,Gujarat,West,Silver
+1527,Meera Singh,Male,18,Lucknow,Uttar Pradesh,North,Silver
+1528,Olivia Davis,Male,48,Mumbai,Maharashtra,West,Silver
+1529,Olivia Davis,Female,30,Mumbai,Maharashtra,West,Silver
+1530,John Taylor,Female,61,Kolkata,West Bengal,East,Silver
+1531,Akhil Patel,Female,43,Mumbai,Maharashtra,West,Silver
+1532,Rohit Kumar,Male,61,Pune,Maharashtra,West,Silver
+1533,Olivia Davis,Male,36,Bengaluru,Karnataka,South,Silver
+1534,Sai Verma,Female,59,Kolkata,West Bengal,East,Silver
+1535,Sai Singh,Female,34,Pune,Maharashtra,West,Silver
+1536,Priya Nair,Male,48,Hyderabad,Telangana,South,Gold
+1537,Sneha Patel,Male,27,Ahmedabad,Gujarat,West,Silver
+1538,Sneha Nair,Female,63,Bengaluru,Karnataka,South,Silver
+1539,Kiran Verma,Male,18,Pune,Maharashtra,West,Silver
+1540,Arjun Verma,Male,26,Jaipur,Rajasthan,North,Gold
+1541,Emma Taylor,Female,18,Jaipur,Rajasthan,North,Silver
+1542,Kiran Reddy,Male,19,Pune,Maharashtra,West,Gold
+1543,Sophia Wilson,Female,37,Bhubaneswar,Odisha,East,Silver
+1544,Rohit Patel,Male,20,Bengaluru,Karnataka,South,Silver
+1545,Meera Gupta,Male,39,Ahmedabad,Gujarat,West,Platinum
+1546,Anjali Verma,Male,32,Ahmedabad,Gujarat,West,Silver
+1547,Sophia Smith,Male,25,Lucknow,Uttar Pradesh,North,Silver
+1548,John Taylor,Female,52,Kolkata,West Bengal,East,Gold
+1549,Rahul Sharma,Male,21,Kolkata,West Bengal,East,Gold
+1550,Sneha Sharma,Female,48,Delhi,Delhi,North,Gold
+1551,Rahul Patel,Male,60,Ahmedabad,Gujarat,West,Silver
+1552,Michael Taylor,Male,36,Vijayawada,Andhra Pradesh,South,Silver
+1553,Anjali Kumar,Male,40,Mumbai,Maharashtra,West,Gold
+1554,Rahul Nair,Female,39,Chennai,Tamil Nadu,South,Silver
+1555,Priya Sharma,Female,27,Lucknow,Uttar Pradesh,North,Platinum
+1556,Emily Johnson,Male,47,Mumbai,Maharashtra,West,Platinum
+1557,Akhil Reddy,Male,20,Vijayawada,Andhra Pradesh,South,Gold
+1558,Kiran Singh,Male,24,Bhubaneswar,Odisha,East,Gold
+1559,John Brown,Male,39,Kolkata,West Bengal,East,Silver
+1560,Rohit Patel,Male,41,Bhubaneswar,Odisha,East,Gold
+1561,Sneha Singh,Female,42,Jaipur,Rajasthan,North,Gold
+1562,Sneha Verma,Male,62,Vijayawada,Andhra Pradesh,South,Gold
+1563,Michael Johnson,Female,54,Ahmedabad,Gujarat,West,Gold
+1564,Sneha Gupta,Male,61,Lucknow,Uttar Pradesh,North,Gold
+1565,Michael Moore,Male,44,Jaipur,Rajasthan,North,Silver
+1566,Kiran Reddy,Male,60,Bhubaneswar,Odisha,East,Gold
+1567,Rohit Sharma,Male,48,Ahmedabad,Gujarat,West,Silver
+1568,Emma Brown,Male,18,Delhi,Delhi,North,Gold
+1569,Akhil Nair,Male,49,Bengaluru,Karnataka,South,Silver
+1570,Sai Reddy,Male,53,Delhi,Delhi,North,Gold
+1571,Anjali Sharma,Female,54,Jaipur,Rajasthan,North,Silver
+1572,James Miller,Female,65,Vijayawada,Andhra Pradesh,South,Gold
+1573,Sneha Reddy,Male,23,Delhi,Delhi,North,Gold
+1574,Daniel Wilson,Female,39,Kolkata,West Bengal,East,Silver
+1575,Anjali Nair,Female,63,Pune,Maharashtra,West,Gold
+1576,Emily Johnson,Male,18,Kolkata,West Bengal,East,Silver
+1577,Daniel Miller,Male,20,Bhubaneswar,Odisha,East,Gold
+1578,Sneha Sharma,Male,30,Mumbai,Maharashtra,West,Silver
+1579,Sophia Moore,Female,24,Chennai,Tamil Nadu,South,Gold
+1580,Rohit Sharma,Female,60,Jaipur,Rajasthan,North,Silver
+1581,Akhil Reddy,Male,53,Delhi,Delhi,North,Platinum
+1582,James Brown,Male,64,Bhubaneswar,Odisha,East,Gold
+1583,Rohit Gupta,Female,44,Delhi,Delhi,North,Platinum
+1584,Sophia Davis,Female,36,Ahmedabad,Gujarat,West,Silver
+1585,Sneha Patel,Female,63,Bhubaneswar,Odisha,East,Gold
+1586,Anjali Kumar,Female,61,Chennai,Tamil Nadu,South,Silver
+1587,Michael Miller,Male,40,Bhubaneswar,Odisha,East,Silver
+1588,Sneha Patel,Male,51,Ahmedabad,Gujarat,West,Silver
+1589,Rahul Reddy,Female,28,Chennai,Tamil Nadu,South,Platinum
+1590,Michael Smith,Female,31,Bhubaneswar,Odisha,East,Gold
+1591,Akhil Sharma,Male,65,Lucknow,Uttar Pradesh,North,Gold
+1592,Meera Patel,Male,42,Bhubaneswar,Odisha,East,Silver
+1593,Olivia Smith,Female,30,Hyderabad,Telangana,South,Gold
+1594,James Wilson,Female,55,Kolkata,West Bengal,East,Silver
+1595,Sophia Davis,Male,61,Jaipur,Rajasthan,North,Silver
+1596,Noah Johnson,Male,45,Ahmedabad,Gujarat,West,Silver
+1597,Arjun Patel,Female,47,Hyderabad,Telangana,South,Gold
+1598,Arjun Gupta,Male,58,Lucknow,Uttar Pradesh,North,Gold
+1599,James Miller,Female,51,Vijayawada,Andhra Pradesh,South,Silver
+1600,Priya Verma,Female,23,Ahmedabad,Gujarat,West,Silver
+1601,Olivia Miller,Female,31,Pune,Maharashtra,West,Platinum
+1602,James Smith,Female,46,Vijayawada,Andhra Pradesh,South,Silver
+1603,Mia Wilson,Female,42,Hyderabad,Telangana,South,Platinum
+1604,Emma Davis,Female,19,Delhi,Delhi,North,Platinum
+1605,Olivia Moore,Male,36,Jaipur,Rajasthan,North,Gold
+1606,Meera Sharma,Male,52,Vijayawada,Andhra Pradesh,South,Silver
+1607,Sophia Wilson,Female,24,Kolkata,West Bengal,East,Silver
+1608,Emma Johnson,Male,19,Bhubaneswar,Odisha,East,Silver
+1609,Priya Sharma,Male,34,Hyderabad,Telangana,South,Silver
+1610,Anjali Patel,Female,46,Ahmedabad,Gujarat,West,Gold
+1611,Rahul Singh,Male,52,Kolkata,West Bengal,East,Silver
+1612,Emily Smith,Male,40,Bhubaneswar,Odisha,East,Platinum
+1613,Sai Sharma,Female,42,Mumbai,Maharashtra,West,Silver
+1614,James Brown,Male,26,Delhi,Delhi,North,Gold
+1615,Noah Davis,Male,37,Kolkata,West Bengal,East,Gold
+1616,Olivia Smith,Male,25,Delhi,Delhi,North,Silver
+1617,Sneha Sharma,Male,65,Mumbai,Maharashtra,West,Gold
+1618,Sophia Taylor,Male,28,Kolkata,West Bengal,East,Silver
+1619,Daniel Wilson,Male,60,Vijayawada,Andhra Pradesh,South,Gold
+1620,Noah Moore,Male,36,Kolkata,West Bengal,East,Gold
+1621,Anjali Nair,Female,26,Pune,Maharashtra,West,Gold
+1622,Sai Sharma,Female,49,Chennai,Tamil Nadu,South,Silver
+1623,Daniel Brown,Female,38,Lucknow,Uttar Pradesh,North,Platinum
+1624,Kiran Kumar,Female,35,Chennai,Tamil Nadu,South,Gold
+1625,Kiran Nair,Female,40,Jaipur,Rajasthan,North,Gold
+1626,Priya Verma,Male,35,Kolkata,West Bengal,East,Gold
+1627,Meera Kumar,Male,64,Mumbai,Maharashtra,West,Silver
+1628,Meera Reddy,Female,55,Lucknow,Uttar Pradesh,North,Silver
+1629,Sai Nair,Male,41,Kolkata,West Bengal,East,Silver
+1630,Mia Davis,Female,50,Bengaluru,Karnataka,South,Silver
+1631,Meera Reddy,Male,57,Kolkata,West Bengal,East,Gold
+1632,Michael Moore,Male,54,Bengaluru,Karnataka,South,Platinum
+1633,Michael Moore,Male,32,Pune,Maharashtra,West,Gold
+1634,Sai Gupta,Male,60,Chennai,Tamil Nadu,South,Silver
+1635,Olivia Taylor,Female,20,Jaipur,Rajasthan,North,Silver
+1636,Emily Davis,Female,55,Bhubaneswar,Odisha,East,Silver
+1637,Sneha Gupta,Male,51,Lucknow,Uttar Pradesh,North,Silver
+1638,Sophia Taylor,Female,49,Pune,Maharashtra,West,Gold
+1639,John Brown,Male,32,Jaipur,Rajasthan,North,Silver
+1640,Sophia Brown,Male,41,Bengaluru,Karnataka,South,Gold
+1641,Sophia Taylor,Male,48,Pune,Maharashtra,West,Gold
+1642,Rohit Verma,Female,19,Kolkata,West Bengal,East,Silver
+1643,Rohit Verma,Male,54,Bengaluru,Karnataka,South,Silver
+1644,Arjun Singh,Male,64,Lucknow,Uttar Pradesh,North,Gold
+1645,Emily Wilson,Female,48,Jaipur,Rajasthan,North,Silver
+1646,Mia Brown,Male,57,Lucknow,Uttar Pradesh,North,Gold
+1647,Kiran Nair,Male,32,Lucknow,Uttar Pradesh,North,Silver
+1648,Rahul Kumar,Female,27,Delhi,Delhi,North,Gold
+1649,Rohit Reddy,Male,23,Delhi,Delhi,North,Silver
+1650,Rohit Reddy,Female,51,Kolkata,West Bengal,East,Silver
+1651,Noah Taylor,Female,42,Chennai,Tamil Nadu,South,Silver
+1652,Mia Johnson,Male,34,Ahmedabad,Gujarat,West,Silver
+1653,Priya Patel,Female,34,Lucknow,Uttar Pradesh,North,Silver
+1654,John Johnson,Male,42,Delhi,Delhi,North,Gold
+1655,Olivia Taylor,Male,27,Pune,Maharashtra,West,Silver
+1656,Sai Singh,Female,57,Lucknow,Uttar Pradesh,North,Silver
+1657,Sophia Taylor,Female,29,Delhi,Delhi,North,Silver
+1658,Sai Patel,Female,63,Lucknow,Uttar Pradesh,North,Silver
+1659,Priya Kumar,Male,24,Jaipur,Rajasthan,North,Silver
+1660,Kiran Reddy,Female,58,Bengaluru,Karnataka,South,Silver
+1661,Arjun Nair,Female,23,Lucknow,Uttar Pradesh,North,Silver
+1662,Priya Reddy,Female,43,Bhubaneswar,Odisha,East,Gold
+1663,Rohit Reddy,Female,46,Bengaluru,Karnataka,South,Silver
+1664,Noah Davis,Male,56,Chennai,Tamil Nadu,South,Silver
+1665,Mia Brown,Male,41,Kolkata,West Bengal,East,Silver
+1666,Arjun Sharma,Female,40,Mumbai,Maharashtra,West,Gold
+1667,Anjali Reddy,Male,23,Bhubaneswar,Odisha,East,Silver
+1668,Noah Miller,Female,32,Pune,Maharashtra,West,Gold
+1669,Sneha Reddy,Male,44,Mumbai,Maharashtra,West,Silver
+1670,Meera Patel,Male,50,Pune,Maharashtra,West,Platinum
+1671,Mia Davis,Female,42,Bhubaneswar,Odisha,East,Silver
+1672,Olivia Moore,Female,55,Kolkata,West Bengal,East,Gold
+1673,Sai Sharma,Male,61,Ahmedabad,Gujarat,West,Gold
+1674,Emma Miller,Male,62,Delhi,Delhi,North,Gold
+1675,Priya Singh,Female,22,Kolkata,West Bengal,East,Silver
+1676,Kiran Gupta,Female,29,Chennai,Tamil Nadu,South,Platinum
+1677,Sophia Moore,Male,33,Bhubaneswar,Odisha,East,Gold
+1678,Sophia Wilson,Male,57,Chennai,Tamil Nadu,South,Silver
+1679,Emily Johnson,Female,57,Kolkata,West Bengal,East,Silver
+1680,John Moore,Female,49,Pune,Maharashtra,West,Gold
+1681,Mia Davis,Male,50,Jaipur,Rajasthan,North,Silver
+1682,Rohit Verma,Female,48,Hyderabad,Telangana,South,Platinum
+1683,Kiran Singh,Male,47,Kolkata,West Bengal,East,Platinum
+1684,James Miller,Male,18,Bhubaneswar,Odisha,East,Gold
+1685,Priya Gupta,Female,29,Pune,Maharashtra,West,Silver
+1686,Akhil Gupta,Male,49,Pune,Maharashtra,West,Silver
+1687,Kiran Gupta,Female,46,Ahmedabad,Gujarat,West,Silver
+1688,Rohit Kumar,Female,33,Vijayawada,Andhra Pradesh,South,Silver
+1689,Sophia Brown,Male,48,Bhubaneswar,Odisha,East,Gold
+1690,Akhil Verma,Female,49,Kolkata,West Bengal,East,Silver
+1691,Rohit Reddy,Male,62,Ahmedabad,Gujarat,West,Silver
+1692,Sai Nair,Male,46,Kolkata,West Bengal,East,Gold
+1693,Kiran Patel,Male,44,Pune,Maharashtra,West,Silver
+1694,Mia Wilson,Male,36,Lucknow,Uttar Pradesh,North,
+1695,James Moore,Female,57,Vijayawada,Andhra Pradesh,South,Silver
+1696,Michael Brown,Female,44,Kolkata,West Bengal,East,Gold
+1697,Priya Sharma,Female,32,Bengaluru,Karnataka,South,Silver
+1698,Daniel Taylor,Female,41,Mumbai,Maharashtra,West,Gold
+1699,Akhil Singh,Male,19,Bengaluru,Karnataka,South,Silver
+1700,Sai Sharma,Male,43,Chennai,Tamil Nadu,South,Silver
+1701,Akhil Reddy,Female,51,Hyderabad,Telangana,South,Gold
+1702,Sai Verma,Female,37,Vijayawada,Andhra Pradesh,South,Silver
+1703,James Brown,Male,19,Bengaluru,Karnataka,South,Silver
+1704,Kiran Nair,Female,53,Jaipur,Rajasthan,North,Silver
+1705,Noah Brown,Female,58,Lucknow,Uttar Pradesh,North,Gold
+1706,Emma Davis,Female,52,Pune,Maharashtra,West,Silver
+1707,Sai Gupta,Female,27,Ahmedabad,Gujarat,West,Silver
+1708,Arjun Gupta,Female,52,Mumbai,Maharashtra,West,Silver
+1709,James Davis,Female,36,Hyderabad,Telangana,South,Silver
+1710,Noah Miller,Female,53,Chennai,Tamil Nadu,South,Silver
+1711,Sneha Singh,Female,23,Chennai,Tamil Nadu,South,Silver
+1712,Rohit Patel,Female,44,Mumbai,Maharashtra,West,Silver
+1713,Arjun Patel,Female,57,Vijayawada,Andhra Pradesh,South,Silver
+1714,James Wilson,Male,27,Pune,Maharashtra,West,Silver
+1715,Arjun Sharma,Female,26,Mumbai,Maharashtra,West,Gold
+1716,Sophia Johnson,Male,49,Bengaluru,Karnataka,South,Silver
+1717,Akhil Gupta,Male,39,Jaipur,Rajasthan,North,Silver
+1718,Michael Smith,Female,22,Mumbai,Maharashtra,West,Silver
+1719,Sai Singh,Male,63,Hyderabad,Telangana,South,Silver
+1720,James Wilson,Male,30,Bhubaneswar,Odisha,East,Silver
+1721,Noah Wilson,Female,61,Jaipur,Rajasthan,North,Platinum
+1722,Michael Smith,Male,34,Bhubaneswar,Odisha,East,Silver
+1723,Kiran Reddy,Male,25,Kolkata,West Bengal,East,Silver
+1724,Rahul Verma,Male,43,Mumbai,Maharashtra,West,Gold
+1725,Rahul Nair,Male,41,Bhubaneswar,Odisha,East,Gold
+1726,Akhil Sharma,Female,58,Kolkata,West Bengal,East,Silver
+1727,Arjun Sharma,Female,32,Bengaluru,Karnataka,South,Silver
+1728,Kiran Nair,Male,19,Bhubaneswar,Odisha,East,Gold
+1729,Arjun Patel,Female,63,Hyderabad,Telangana,South,Silver
+1730,Akhil Kumar,Male,52,Lucknow,Uttar Pradesh,North,Silver
+1731,Daniel Brown,Male,46,Vijayawada,Andhra Pradesh,South,Silver
+1732,Kiran Nair,Female,64,Hyderabad,Telangana,South,Silver
+1733,Kiran Kumar,Male,60,Pune,Maharashtra,West,Platinum
+1734,Sophia Moore,Male,57,Delhi,Delhi,North,Silver
+1735,Kiran Sharma,Male,20,Vijayawada,Andhra Pradesh,South,Gold
+1736,Rahul Kumar,Female,30,Vijayawada,Andhra Pradesh,South,Silver
+1737,Sneha Nair,Female,21,Delhi,Delhi,North,Silver
+1738,Emily Smith,Female,23,Chennai,Tamil Nadu,South,Silver
+1739,Olivia Taylor,Male,57,Pune,Maharashtra,West,Silver
+1740,Priya Patel,Male,51,Vijayawada,Andhra Pradesh,South,Silver
+1741,Noah Taylor,Male,51,Chennai,Tamil Nadu,South,Gold
+1742,Arjun Singh,Male,58,Bhubaneswar,Odisha,East,Silver
+1743,Emma Johnson,Male,53,Bengaluru,Karnataka,South,Silver
+1744,Arjun Nair,Female,53,Pune,Maharashtra,West,Platinum
+1745,Kiran Singh,Female,64,Kolkata,West Bengal,East,Silver
+1746,Meera Kumar,Female,41,Ahmedabad,Gujarat,West,Platinum
+1747,Sneha Reddy,Male,36,Bhubaneswar,Odisha,East,Silver
+1748,Sai Reddy,Male,31,Mumbai,Maharashtra,West,Gold
+1749,Sai Verma,Male,47,Vijayawada,Andhra Pradesh,South,Silver
+1750,Kiran Kumar,Female,37,Chennai,Tamil Nadu,South,Silver
+1751,Anjali Sharma,Female,48,Bhubaneswar,Odisha,East,Silver
+1752,Mia Johnson,Female,20,Lucknow,Uttar Pradesh,North,Gold
+1753,Priya Reddy,Female,45,Pune,Maharashtra,West,Silver
+1754,Sophia Smith,Female,21,Kolkata,West Bengal,East,Silver
+1755,Meera Verma,Male,27,Pune,Maharashtra,West,Silver
+1756,Emma Moore,Male,32,Lucknow,Uttar Pradesh,North,Silver
+1757,Michael Brown,Male,48,Pune,Maharashtra,West,Silver
+1758,Sneha Patel,Female,50,Vijayawada,Andhra Pradesh,South,Silver
+1759,Michael Moore,Male,49,Delhi,Delhi,North,Silver
+1760,Meera Kumar,Male,35,Chennai,Tamil Nadu,South,Gold
+1761,Rohit Sharma,Female,45,Vijayawada,Andhra Pradesh,South,Silver
+1762,Kiran Reddy,Male,40,Mumbai,Maharashtra,West,Gold
+1763,James Brown,Male,32,Jaipur,Rajasthan,North,Silver
+1764,Priya Sharma,Male,33,Bhubaneswar,Odisha,East,Platinum
+1765,Daniel Smith,Male,37,Pune,Maharashtra,West,Silver
+1766,Anjali Kumar,Female,53,Chennai,Tamil Nadu,South,Silver
+1767,Michael Smith,Male,34,Ahmedabad,Gujarat,West,Silver
+1768,Rohit Patel,Female,59,Hyderabad,Telangana,South,Platinum
+1769,Sai Gupta,Male,36,Vijayawada,Andhra Pradesh,South,Gold
+1770,Sophia Taylor,Male,38,Delhi,Delhi,North,Silver
+1771,Priya Verma,Female,53,Chennai,Tamil Nadu,South,Platinum
+1772,Anjali Patel,Female,43,Pune,Maharashtra,West,Gold
+1773,Kiran Gupta,Female,33,Kolkata,West Bengal,East,Platinum
+1774,Daniel Smith,Female,42,Kolkata,West Bengal,East,Gold
+1775,John Davis,Male,39,Chennai,Tamil Nadu,South,Gold
+1776,Emily Taylor,Male,44,Delhi,Delhi,North,Silver
+1777,Sai Gupta,Male,31,Jaipur,Rajasthan,North,Gold
+1778,Anjali Verma,Male,45,Mumbai,Maharashtra,West,Platinum
+1779,Michael Brown,Male,53,Pune,Maharashtra,West,Silver
+1780,Michael Miller,Male,38,Bengaluru,Karnataka,South,Gold
+1781,Sneha Patel,Female,27,Jaipur,Rajasthan,North,Gold
+1782,Arjun Reddy,Female,56,Lucknow,Uttar Pradesh,North,Silver
+1783,Anjali Kumar,Male,40,Kolkata,West Bengal,East,Silver
+1784,Michael Moore,Female,29,Bhubaneswar,Odisha,East,Gold
+1785,Arjun Verma,Male,20,Chennai,Tamil Nadu,South,Silver
+1786,Daniel Taylor,Male,31,Chennai,Tamil Nadu,South,Silver
+1787,James Moore,Female,47,Bhubaneswar,Odisha,East,Gold
+1788,Rahul Singh,Female,43,Bhubaneswar,Odisha,East,Gold
+1789,Mia Smith,Male,46,Delhi,Delhi,North,Silver
+1790,Sophia Taylor,Male,53,Bhubaneswar,Odisha,East,Silver
+1791,John Wilson,Female,43,Mumbai,Maharashtra,West,Gold
+1792,Daniel Moore,Female,36,Bengaluru,Karnataka,South,Gold
+1793,Meera Verma,Female,23,Jaipur,Rajasthan,North,Gold
+1794,Rohit Verma,Female,38,Ahmedabad,Gujarat,West,Silver
+1795,Rohit Kumar,Male,34,Jaipur,Rajasthan,North,Silver
+1796,Michael Johnson,Male,63,Vijayawada,Andhra Pradesh,South,Silver
+1797,Meera Singh,Male,42,Bhubaneswar,Odisha,East,Silver
+1798,Arjun Gupta,Male,28,Lucknow,Uttar Pradesh,North,Gold
+1799,Rahul Singh,Female,64,Mumbai,Maharashtra,West,Gold
+1800,Arjun Sharma,Male,18,Bengaluru,Karnataka,South,Gold
+1801,Akhil Nair,Male,56,Jaipur,Rajasthan,North,Gold
+1802,Rohit Nair,Female,46,Jaipur,Rajasthan,North,Silver
+1803,Sophia Davis,Male,21,Lucknow,Uttar Pradesh,North,Silver
+1804,Kiran Reddy,Male,60,Bengaluru,Karnataka,South,Silver
+1805,Olivia Johnson,Male,44,Hyderabad,Telangana,South,Platinum
+1806,Sai Verma,Female,20,Jaipur,Rajasthan,North,Silver
+1807,Kiran Singh,Female,53,Vijayawada,Andhra Pradesh,South,Silver
+1808,Priya Patel,Female,51,Pune,Maharashtra,West,Silver
+1809,Rahul Sharma,Male,48,Lucknow,Uttar Pradesh,North,Gold
+1810,Daniel Taylor,Female,34,Lucknow,Uttar Pradesh,North,Silver
+1811,Olivia Brown,Female,51,Lucknow,Uttar Pradesh,North,Gold
+1812,Arjun Kumar,Female,30,Bhubaneswar,Odisha,East,Silver
+1813,Priya Kumar,Female,44,Lucknow,Uttar Pradesh,North,Silver
+1814,Anjali Reddy,Male,62,Kolkata,West Bengal,East,Silver
+1815,Daniel Davis,Female,18,Delhi,Delhi,North,Silver
+1816,Sneha Reddy,Male,39,Bengaluru,Karnataka,South,Gold
+1817,James Moore,Male,48,Hyderabad,Telangana,South,Silver
+1818,Meera Gupta,Female,65,Jaipur,Rajasthan,North,Silver
+1819,Rohit Gupta,Male,31,Delhi,Delhi,North,Silver
+1820,Kiran Sharma,Female,19,Bengaluru,Karnataka,South,Silver
+1821,Meera Verma,Female,29,Lucknow,Uttar Pradesh,North,Silver
+1822,Daniel Miller,Male,35,Bhubaneswar,Odisha,East,Silver
+1823,Anjali Gupta,Female,31,Jaipur,Rajasthan,North,Silver
+1824,Kiran Reddy,Male,46,Chennai,Tamil Nadu,South,Silver
+1825,Noah Brown,Female,48,Chennai,Tamil Nadu,South,Gold
+1826,Kiran Verma,Male,31,Vijayawada,Andhra Pradesh,South,Gold
+1827,Meera Sharma,Female,20,Hyderabad,Telangana,South,Gold
+1828,Priya Gupta,Male,24,Jaipur,Rajasthan,North,Silver
+1829,Daniel Smith,Female,58,Lucknow,Uttar Pradesh,North,Gold
+1830,Anjali Patel,Female,46,Mumbai,Maharashtra,West,Gold
+1831,Arjun Patel,Male,57,Vijayawada,Andhra Pradesh,South,Silver
+1832,Meera Gupta,Female,35,Delhi,Delhi,North,Silver
+1833,Daniel Wilson,Male,37,Bengaluru,Karnataka,South,Gold
+1834,Akhil Reddy,Male,48,Bengaluru,Karnataka,South,Platinum
+1835,Sneha Reddy,Female,43,Vijayawada,Andhra Pradesh,South,Silver
+1836,Rohit Nair,Female,37,Lucknow,Uttar Pradesh,North,Silver
+1837,Meera Sharma,Male,23,Jaipur,Rajasthan,North,Gold
+1838,James Johnson,Female,61,Jaipur,Rajasthan,North,Gold
+1839,James Wilson,Male,57,Chennai,Tamil Nadu,South,Silver
+1840,Arjun Gupta,Female,49,Pune,Maharashtra,West,Silver
+1841,Kiran Nair,Male,36,Jaipur,Rajasthan,North,Gold
+1842,Michael Johnson,Male,38,Ahmedabad,Gujarat,West,Silver
+1843,Sai Nair,Female,33,Ahmedabad,Gujarat,West,Gold
+1844,Akhil Singh,Female,31,Vijayawada,Andhra Pradesh,South,Gold
+1845,Sneha Gupta,Male,29,Delhi,Delhi,North,Gold
+1846,Rohit Nair,Female,38,Vijayawada,Andhra Pradesh,South,Silver
+1847,Michael Davis,Male,56,Ahmedabad,Gujarat,West,Silver
+1848,Emma Miller,Male,23,Jaipur,Rajasthan,North,Silver
+1849,Rohit Reddy,Male,46,Bengaluru,Karnataka,South,Silver
+1850,Rohit Nair,Male,61,Chennai,Tamil Nadu,South,Gold
+1851,Sai Singh,Female,23,Bhubaneswar,Odisha,East,Silver
+1852,Noah Taylor,Female,21,Bengaluru,Karnataka,South,Silver
+1853,Rahul Reddy,Female,25,Bhubaneswar,Odisha,East,Gold
+1854,Sophia Taylor,Female,58,Bhubaneswar,Odisha,East,Silver
+1855,Sneha Singh,Male,60,Delhi,Delhi,North,Silver
+1856,Meera Singh,Female,27,Pune,Maharashtra,West,
+1857,Michael Brown,Male,59,Hyderabad,Telangana,South,Silver
+1858,James Taylor,Male,26,Bengaluru,Karnataka,South,Gold
+1859,Akhil Singh,Male,47,Lucknow,Uttar Pradesh,North,Silver
+1860,Akhil Singh,Male,29,Pune,Maharashtra,West,Silver
+1861,Akhil Kumar,Female,44,Bhubaneswar,Odisha,East,Platinum
+1862,Rahul Reddy,Female,63,Lucknow,Uttar Pradesh,North,Silver
+1863,Priya Verma,Female,47,Bhubaneswar,Odisha,East,Silver
+1864,Rohit Sharma,Female,58,Chennai,Tamil Nadu,South,Gold
+1865,Emily Davis,Male,39,Lucknow,Uttar Pradesh,North,Silver
+1866,Akhil Nair,Female,44,Lucknow,Uttar Pradesh,North,Silver
+1867,Daniel Davis,Male,62,Bengaluru,Karnataka,South,Platinum
+1868,Mia Davis,Female,55,Hyderabad,Telangana,South,Silver
+1869,Sai Reddy,Female,23,Mumbai,Maharashtra,West,Silver
+1870,Sai Patel,Female,35,Bengaluru,Karnataka,South,Gold
+1871,Priya Verma,Male,60,Lucknow,Uttar Pradesh,North,Silver
+1872,Daniel Wilson,Male,51,Jaipur,Rajasthan,North,Gold
+1873,Priya Verma,Male,49,Lucknow,Uttar Pradesh,North,Gold
+1874,Sneha Kumar,Female,64,Kolkata,West Bengal,East,Gold
+1875,Kiran Reddy,Female,25,Kolkata,West Bengal,East,Silver
+1876,Akhil Patel,Male,42,Jaipur,Rajasthan,North,Gold
+1877,Sai Verma,Female,18,Delhi,Delhi,North,Silver
+1878,Emma Miller,Male,24,Delhi,Delhi,North,Platinum
+1879,Emma Davis,Female,35,Pune,Maharashtra,West,Gold
+1880,Rohit Singh,Male,64,Jaipur,Rajasthan,North,Gold
+1881,Noah Miller,Male,38,Kolkata,West Bengal,East,
+1882,Emily Smith,Male,51,Ahmedabad,Gujarat,West,Silver
+1883,Anjali Patel,Male,20,Mumbai,Maharashtra,West,Silver
+1884,Rohit Kumar,Male,63,Lucknow,Uttar Pradesh,North,Platinum
+1885,Rohit Verma,Male,25,Ahmedabad,Gujarat,West,Gold
+1886,Akhil Sharma,Female,35,Kolkata,West Bengal,East,Gold
+1887,Olivia Davis,Male,35,Bengaluru,Karnataka,South,Gold
+1888,Kiran Reddy,Female,29,Mumbai,Maharashtra,West,Silver
+1889,Anjali Singh,Female,24,Bengaluru,Karnataka,South,Silver
+1890,Sophia Johnson,Female,24,Jaipur,Rajasthan,North,Silver
+1891,Sai Nair,Female,27,Hyderabad,Telangana,South,Gold
+1892,Rahul Singh,Male,62,Mumbai,Maharashtra,West,Silver
+1893,Rahul Nair,Female,43,Jaipur,Rajasthan,North,Gold
+1894,Emily Wilson,Female,62,Hyderabad,Telangana,South,Gold
+1895,Rohit Gupta,Female,43,Pune,Maharashtra,West,Silver
+1896,Emily Miller,Female,23,Delhi,Delhi,North,Gold
+1897,Daniel Wilson,Male,42,Bengaluru,Karnataka,South,Gold
+1898,Sneha Sharma,Female,49,Kolkata,West Bengal,East,Silver
+1899,Sophia Brown,Male,19,Hyderabad,Telangana,South,Gold
+1900,Akhil Singh,Female,49,Vijayawada,Andhra Pradesh,South,Silver
+1901,James Smith,Female,21,Hyderabad,Telangana,South,Silver
+1902,Emma Johnson,Female,61,Chennai,Tamil Nadu,South,Gold
+1903,Rohit Kumar,Male,65,Vijayawada,Andhra Pradesh,South,Silver
+1904,James Smith,Male,18,Chennai,Tamil Nadu,South,Silver
+1905,Sai Sharma,Male,55,Jaipur,Rajasthan,North,Silver
+1906,Emily Moore,Male,22,Lucknow,Uttar Pradesh,North,Gold
+1907,Sneha Gupta,Male,38,Vijayawada,Andhra Pradesh,South,Gold
+1908,John Brown,Male,25,Pune,Maharashtra,West,Silver
+1909,Michael Miller,Male,46,Delhi,Delhi,North,Silver
+1910,Arjun Sharma,Female,28,Kolkata,West Bengal,East,Silver
+1911,Rahul Reddy,Male,63,Bengaluru,Karnataka,South,Gold
+1912,Emma Moore,Male,31,Bhubaneswar,Odisha,East,Silver
+1913,Akhil Singh,Male,57,Chennai,Tamil Nadu,South,Gold
+1914,Akhil Sharma,Female,40,Kolkata,West Bengal,East,Silver
+1915,Anjali Sharma,Male,57,Delhi,Delhi,North,Silver
+1916,Noah Wilson,Male,35,Jaipur,Rajasthan,North,Silver
+1917,Arjun Nair,Male,28,Jaipur,Rajasthan,North,Gold
+1918,Kiran Patel,Female,34,Chennai,Tamil Nadu,South,Silver
+1919,James Smith,Male,52,Vijayawada,Andhra Pradesh,South,Silver
+1920,James Johnson,Male,64,Vijayawada,Andhra Pradesh,South,Silver
+1921,Sneha Kumar,Female,32,Bhubaneswar,Odisha,East,Gold
+1922,Priya Kumar,Female,30,Bhubaneswar,Odisha,East,Silver
+1923,Akhil Nair,Female,27,Hyderabad,Telangana,South,Silver
+1924,Michael Taylor,Male,47,Pune,Maharashtra,West,Gold
+1925,Daniel Wilson,Male,20,Pune,Maharashtra,West,Gold
+1926,Arjun Sharma,Female,44,Jaipur,Rajasthan,North,Silver
+1927,Sai Verma,Male,54,Kolkata,West Bengal,East,Platinum
+1928,Emily Taylor,Female,31,Delhi,Delhi,North,Silver
+1929,Daniel Smith,Female,65,Bhubaneswar,Odisha,East,Gold
+1930,Sneha Kumar,Male,54,Lucknow,Uttar Pradesh,North,Gold
+1931,Rahul Reddy,Male,45,Jaipur,Rajasthan,North,Silver
+1932,Priya Nair,Male,23,Jaipur,Rajasthan,North,Silver
+1933,Sneha Kumar,Female,36,Bengaluru,Karnataka,South,Silver
+1934,John Moore,Female,28,Kolkata,West Bengal,East,Gold
+1935,Mia Smith,Female,26,Jaipur,Rajasthan,North,Gold
+1936,Kiran Nair,Male,58,Bhubaneswar,Odisha,East,Silver
+1937,Olivia Smith,Female,35,Mumbai,Maharashtra,West,Gold
+1938,Mia Wilson,Male,57,Kolkata,West Bengal,East,Gold
+1939,John Miller,Male,42,Hyderabad,Telangana,South,Silver
+1940,Olivia Miller,Male,53,Bengaluru,Karnataka,South,Gold
+1941,Kiran Kumar,Male,59,Delhi,Delhi,North,Silver
+1942,Mia Wilson,Male,38,Bhubaneswar,Odisha,East,Silver
+1943,Sneha Patel,Male,41,Hyderabad,Telangana,South,Silver
+1944,Meera Sharma,Female,46,Jaipur,Rajasthan,North,Gold
+1945,Emily Wilson,Male,23,Jaipur,Rajasthan,North,Silver
+1946,Priya Sharma,Female,25,Bengaluru,Karnataka,South,Gold
+1947,Anjali Reddy,Female,61,Mumbai,Maharashtra,West,Silver
+1948,Kiran Singh,Male,36,Jaipur,Rajasthan,North,Silver
+1949,Anjali Gupta,Female,59,Ahmedabad,Gujarat,West,Gold
+1950,Rohit Nair,Female,54,Jaipur,Rajasthan,North,Silver
+1951,Michael Davis,Female,41,Chennai,Tamil Nadu,South,Platinum
+1952,John Brown,Female,47,Pune,Maharashtra,West,Platinum
+1953,Michael Davis,Male,63,Bengaluru,Karnataka,South,Gold
+1954,Michael Brown,Male,20,Chennai,Tamil Nadu,South,Platinum
+1955,Akhil Patel,Male,31,Pune,Maharashtra,West,Silver
+1956,Kiran Gupta,Female,46,Bengaluru,Karnataka,South,Silver
+1957,Sai Sharma,Female,49,Hyderabad,Telangana,South,Gold
+1958,Olivia Brown,Female,59,Hyderabad,Telangana,South,Gold
+1959,Sai Verma,Female,39,Lucknow,Uttar Pradesh,North,Gold
+1960,John Brown,Male,37,Kolkata,West Bengal,East,Silver
+1961,Sophia Moore,Male,38,Pune,Maharashtra,West,Silver
+1962,Mia Wilson,Male,19,Mumbai,Maharashtra,West,Silver
+1963,Emily Taylor,Female,38,Chennai,Tamil Nadu,South,Gold
+1964,Rahul Gupta,Male,63,Ahmedabad,Gujarat,West,Gold
+1965,Kiran Reddy,Female,40,Mumbai,Maharashtra,West,Silver
+1966,Meera Sharma,Female,65,Chennai,Tamil Nadu,South,Platinum
+1967,Daniel Brown,Female,64,Bhubaneswar,Odisha,East,Gold
+1968,Rohit Sharma,Male,37,Bengaluru,Karnataka,South,Silver
+1969,Olivia Johnson,Female,23,Lucknow,Uttar Pradesh,North,Silver
+1970,Daniel Taylor,Female,63,Bengaluru,Karnataka,South,Silver
+1971,Sophia Brown,Female,53,Ahmedabad,Gujarat,West,Silver
+1972,Daniel Davis,Female,32,Jaipur,Rajasthan,North,Silver
+1973,Sai Patel,Female,25,Kolkata,West Bengal,East,Gold
+1974,Emma Brown,Male,19,Jaipur,Rajasthan,North,Silver
+1975,Priya Gupta,Female,54,Lucknow,Uttar Pradesh,North,Silver
+1976,Akhil Sharma,Male,34,Pune,Maharashtra,West,Silver
+1977,Kiran Nair,Male,40,Bhubaneswar,Odisha,East,Silver
+1978,Sneha Gupta,Female,36,Hyderabad,Telangana,South,Silver
+1979,Noah Wilson,Male,24,Kolkata,West Bengal,East,Silver
+1980,Kiran Gupta,Female,35,Kolkata,West Bengal,East,Gold
+1981,Emily Miller,Male,26,Bengaluru,Karnataka,South,Silver
+1982,Akhil Singh,Male,24,Pune,Maharashtra,West,Silver
+1983,Anjali Sharma,Female,22,Ahmedabad,Gujarat,West,Silver
+1984,Rahul Nair,Female,62,Pune,Maharashtra,West,Silver
+1985,Mia Miller,Female,19,Bengaluru,Karnataka,South,Gold
+1986,Arjun Verma,Male,37,Bhubaneswar,Odisha,East,Silver
+1987,Priya Singh,Male,22,Bhubaneswar,Odisha,East,Silver
+1988,Sneha Reddy,Male,20,Chennai,Tamil Nadu,South,Gold
+1989,Rahul Nair,Female,20,Vijayawada,Andhra Pradesh,South,Silver
+1990,Emily Johnson,Male,55,Lucknow,Uttar Pradesh,North,Platinum
+1991,Kiran Reddy,Male,65,Vijayawada,Andhra Pradesh,South,Platinum
+1992,Olivia Miller,Male,50,Bengaluru,Karnataka,South,Silver
+1993,Rohit Reddy,Male,63,Delhi,Delhi,North,Silver
+1994,Meera Reddy,Male,31,Bhubaneswar,Odisha,East,Platinum
+1995,James Miller,Male,46,Bhubaneswar,Odisha,East,Gold
+1996,Kiran Singh,Male,50,Ahmedabad,Gujarat,West,Silver
+1997,Kiran Sharma,Male,51,Jaipur,Rajasthan,North,Silver
+1998,Daniel Smith,Female,49,Vijayawada,Andhra Pradesh,South,Silver
+1999,Rohit Patel,Female,32,Kolkata,West Bengal,East,Silver
+2000,Sneha Kumar,Female,61,Vijayawada,Andhra Pradesh,South,Silver

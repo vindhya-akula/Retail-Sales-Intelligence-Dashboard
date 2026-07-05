@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Brand,Cost_Price,Selling_Price,Color,Size,Stock_Available,Launch_Year
+501,Electronics Product 1,Electronics,Apex,204,326.28,Grey,S,212,2025
+502,Electronics Product 2,Electronics,Prime,4381,6336.44,Black,M,212,2024
+503,Electronics Product 3,Electronics,Elite,4937,7849.37,Black,L,111,2023
+504,Electronics Product 4,Electronics,Spark,1740,2466.85,Black,M,439,2024
+505,Electronics Product 5,Electronics,Orbit,4188,5341.1,Green,L,397,2024
+506,Electronics Product 6,Electronics,Orbit,3017,4115.56,Red,XL,271,2022
+507,Electronics Product 7,Electronics,Prime,1307,1954.75,Black,L,260,2025
+508,Electronics Product 8,Electronics,Elite,1990,2851.21,Black,S,387,2018
+509,Electronics Product 9,Electronics,Nova,658,904.2,White,XL,319,2023
+510,Electronics Product 10,Electronics,Orbit,1351,1737.71,Black,S,348,2026
+511,Electronics Product 11,Electronics,Urban,4132,6225.8,Blue,XL,261,2026
+512,Electronics Product 12,Electronics,Vision,2243,3126.96,Green,S,497,2018
+513,Electronics Product 13,Electronics,Prime,3625,5604.46,Red,XL,171,2024
+514,Electronics Product 14,Electronics,Nova,3725,5054.25,White,NA,347,2022
+515,Electronics Product 15,Electronics,Elite,1444,1979.96,Blue,XL,259,2019
+516,Electronics Product 16,Electronics,Vision,4760,6919.9,Grey,NA,302,2025
+517,Electronics Product 17,Electronics,Elite,3998,5609.25,Green,S,210,2022
+518,Electronics Product 18,Electronics,Spark,4152,5879.11,Green,L,402,2022
+519,Electronics Product 19,Electronics,Orbit,2725,3209.07,Black,M,438,2023
+520,Electronics Product 20,Electronics,Orbit,2957,4477.78,Black,L,204,2019
+521,Grocery Product 1,Grocery,Eco,3607,4708.27,Red,L,38,2021
+522,Grocery Product 2,Grocery,Fresh,2128,2671.87,Green,S,476,2019
+523,Grocery Product 3,Grocery,Elite,2597,3120.33,Black,NA,176,2018
+524,Grocery Product 4,Grocery,Spark,3875,5603.23,Green,NA,471,2024
+525,Grocery Product 5,Grocery,Apex,2284,2647.57,Green,S,172,2024
+526,Grocery Product 6,Grocery,Orbit,4772,6325.93,Black,XL,61,2021
+527,Grocery Product 7,Grocery,Eco,2852,3917.31,White,NA,163,2023
+528,Grocery Product 8,Grocery,Prime,3671,4554.95,Green,M,157,2022
+529,Grocery Product 9,Grocery,Orbit,489,627.78,Red,M,329,2019
+530,Grocery Product 10,Grocery,Eco,4836,5767.56,Blue,S,300,2026
+531,Grocery Product 11,Grocery,Eco,3993,5359.4,Black,L,268,2022
+532,Grocery Product 12,Grocery,Eco,3646,5281.43,White,XL,215,2022
+533,Grocery Product 13,Grocery,Vision,4321,5850.43,White,S,331,2026
+534,Grocery Product 14,Grocery,Urban,1628,2294.8,Grey,XL,147,2026
+535,Grocery Product 15,Grocery,Nova,3653,5737.35,Green,M,196,2025
+536,Grocery Product 16,Grocery,Fresh,1310,1648.2,Red,XL,173,2019
+537,Grocery Product 17,Grocery,Fresh,1767,2704.72,Blue,M,141,2021
+538,Grocery Product 18,Grocery,Elite,3424,4305.06,White,S,135,2022
+539,Clothing Product 1,Clothing,Spark,3902,5339.58,Red,S,113,2020
+540,Clothing Product 2,Clothing,Fresh,2334,2827.39,Blue,NA,100,2018
+541,Clothing Product 3,Clothing,Nova,4080,6128.18,Black,L,318,2022
+542,Clothing Product 4,Clothing,Spark,620,964.26,Blue,S,213,2020
+543,Clothing Product 5,Clothing,Vision,2033,2440.35,Black,NA,350,2026
+544,Clothing Product 6,Clothing,Prime,2162,2969.3,White,NA,72,2023
+545,Clothing Product 7,Clothing,Spark,2797,4264.17,Grey,M,488,2024
+546,Clothing Product 8,Clothing,Elite,1885,2290.13,White,L,235,2024
+547,Clothing Product 9,Clothing,Nova,2183,3358.12,Red,NA,201,2019
+548,Clothing Product 10,Clothing,Apex,2692,3756.92,Grey,M,152,2020
+549,Clothing Product 11,Clothing,Eco,3073,4191.11,Blue,S,340,2018
+550,Clothing Product 12,Clothing,Urban,547,799.06,Blue,NA,206,2022
+551,Clothing Product 13,Clothing,Prime,3072,4781.32,Green,M,449,2025
+552,Clothing Product 14,Clothing,Spark,3282,3785.92,Blue,L,56,2021
+553,Clothing Product 15,Clothing,Elite,2536,3156.49,Red,L,460,2024
+554,Clothing Product 16,Clothing,Prime,377,480.04,Red,XL,387,2024
+555,Clothing Product 17,Clothing,Prime,2825,4160.73,White,L,269,2019
+556,Clothing Product 18,Clothing,Vision,2982,3994.07,Grey,L,242,2018
+557,Beauty Product 1,Beauty,Elite,526,756.71,Grey,XL,415,2020
+558,Beauty Product 2,Beauty,Fresh,125,166.29,Blue,NA,52,2019
+559,Beauty Product 3,Beauty,Elite,1392,1757.15,Green,XL,415,2023
+560,Beauty Product 4,Beauty,Elite,3798,5185.27,Blue,M,361,2023
+561,Beauty Product 5,Beauty,Spark,2408,2984.47,Blue,M,211,2024
+562,Beauty Product 6,Beauty,Nova,4772,5969.86,Green,NA,330,2021
+563,Beauty Product 7,Beauty,Urban,828,1315.16,Blue,M,35,2024
+564,Beauty Product 8,Beauty,Elite,3613,5131.1,Black,L,97,2019
+565,Beauty Product 9,Beauty,Spark,215,316.77,Red,XL,70,2021
+566,Beauty Product 10,Beauty,Fresh,1764,2179.85,Blue,XL,205,2020
+567,Beauty Product 11,Beauty,Orbit,3633,5577.93,White,L,382,2021
+568,Beauty Product 12,Beauty,Elite,3526,4341.09,Black,L,144,2021
+569,Beauty Product 13,Beauty,Eco,3794,5912.18,Green,XL,53,2018
+570,Beauty Product 14,Beauty,Eco,3941,4768.38,Grey,XL,361,2021
+571,Home & Kitchen Product 1,Home & Kitchen,Orbit,3241,4760.39,Blue,S,58,2026
+572,Home & Kitchen Product 2,Home & Kitchen,Urban,581,681.77,Red,L,320,2018
+573,Home & Kitchen Product 3,Home & Kitchen,Orbit,143,180.77,Red,L,212,2023
+574,Home & Kitchen Product 4,Home & Kitchen,Vision,1183,1875.8,Black,NA,101,2022
+575,Home & Kitchen Product 5,Home & Kitchen,Eco,1491,2052.64,Red,M,55,2023
+576,Home & Kitchen Product 6,Home & Kitchen,Fresh,4445,5977.72,Black,L,32,2020
+577,Home & Kitchen Product 7,Home & Kitchen,Fresh,4189,6460.51,Grey,L,484,2024
+578,Home & Kitchen Product 8,Home & Kitchen,Fresh,2417,3761.47,Green,L,274,2023
+579,Home & Kitchen Product 9,Home & Kitchen,Eco,3669,5693.2,Grey,XL,401,2020
+580,Home & Kitchen Product 10,Home & Kitchen,Apex,4652,7135.54,Black,M,86,2018
+581,Home & Kitchen Product 11,Home & Kitchen,Apex,1983,2443.88,Blue,M,371,2025
+582,Home & Kitchen Product 12,Home & Kitchen,Apex,3675,4418.12,Black,XL,192,2026
+583,Furniture Product 1,Furniture,Prime,4074,5524.31,Grey,M,73,2023
+584,Furniture Product 2,Furniture,Fresh,866,1075.3,White,M,393,2026
+585,Furniture Product 3,Furniture,Orbit,2334,3275.68,White,NA,12,2026
+586,Furniture Product 4,Furniture,Prime,4775,5879.25,White,XL,356,2019
+587,Furniture Product 5,Furniture,Prime,2792,3243.42,Red,L,312,2019
+588,Furniture Product 6,Furniture,Prime,2750,3352.8,Red,XL,242,2022
+589,Furniture Product 7,Furniture,Eco,4967,7182.79,Black,NA,496,2025
+590,Furniture Product 8,Furniture,Orbit,2761,4352.27,White,M,451,2018
+591,Furniture Product 9,Furniture,Nova,2417,3131.05,Grey,S,290,2024
+592,Furniture Product 10,Furniture,Elite,858,1140.7,White,XL,55,2018
+593,Sports Product 1,Sports,Spark,1805,2208.1,Blue,M,71,2022
+594,Sports Product 2,Sports,Fresh,4121,6224.75,Grey,NA,77,2023
+595,Sports Product 3,Sports,Vision,887,1352.16,White,XL,238,2024
+596,Sports Product 4,Sports,Orbit,4002,5085.8,Red,S,397,2024
+597,Sports Product 5,Sports,Spark,3116,4444.17,Grey,XL,57,2018
+598,Sports Product 6,Sports,Apex,4305,5612.8,Grey,M,341,2020
+599,Sports Product 7,Sports,Vision,4157,5766.9,Black,L,249,2024
+600,Sports Product 8,Sports,Apex,748,1165.57,Blue,M,75,2022
