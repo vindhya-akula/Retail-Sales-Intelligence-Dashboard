@@ -39,25 +39,74 @@ Measures the average amount spent by customers in each order. It helps managemen
 Measures the percentage of profit earned from total sales revenue. It helps management evaluate business efficiency, monitor overall profitability, and determine whether sales growth is generating healthy financial returns.
 ---
 
+# Exploratory Data Analysis (EDA)
+
+This section explores different aspects of the retail business to identify trends, patterns, and business opportunities.
+
+## Business Report
 ## Sales by Category
 
-Observation:
+-Observation:
 Electronics generated the highest total sales.
 
-Business Insight:
+-Business Insight:
 Electronics is the primary revenue contributor.
 
-Recommendation:
+-Recommendation:
 Maintain Electronics performance while improving lower-performing categories.
 
 ---
 
+## Business Report
 ## Sales by Region
 
-(To be updated)
+-Observation:
+South has highest regional sales and East has lowest regional sales.
+
+-Business Insight:
+South region is the primary sales contributor.
+
+-Recommendation:
+Investigate the factors contributing to South's strong sales performance, such as product mix, customer demand, pricing strategy, promotional campaigns, and discount effectiveness. After validating these factors, adapt suitable strategies to improve sales performance in lower-performing regions, particularly the East.
 
 ---
 
-## Profit Analysis
+## Business Report
+## Monthly Sales Trend
 
-(To be updated)
+-Observation:
+Sales increased from February to April, where April recorded the highest sales. After April, sales gradually declined, with a significant drop in July. Sales remained relatively stable from August to December.
+
+-Business Insight:
+The business experienced strong sales performance during the first half of the year, particularly in April. However, a sharp decline in July suggests possible seasonal demand changes, reduced promotional activities, inventory shortages, or other operational factors that require further investigation.
+
+-Recommendation:
+Management should investigate the factors contributing to the strong sales performance in April and identify the reasons for the significant decline in July. After validating the causes, successful strategies can be replicated during lower-performing months to improve annual sales performance.
+
+
+## Business Report
+## Top 10 Products by Sales
+
+-Observation:
+Electronics Product 16 generated the highest total sales among all products, followed by Grocery Product 6 and Furniture Product 7.
+
+-Business Insight:
+Electronics products contribute significantly to overall business revenue, indicating strong customer demand and market performance.
+
+-Recommendation:
+Management should investigate the factors contributing to the success of top-performing products, including pricing strategy, customer ratings, promotional activities, and demand patterns. After validating these factors, similar strategies can be applied to lower-performing products to improve overall sales performance.
+
+
+## Business Report
+## Top 10 Customers by Sales
+
+-Observation:
+Kiran Reddy generated the highest total sales among all customers, while the remaining top customers contributed lower but significant sales.
+
+-Business Insight:
+Kiran Reddy, Akhil Nair, and Sneha Gupta are customers contributes a significant portion of total revenue, indicating the importance of retaining high-value customers.
+
+-Recommendation:
+Management should strengthen relationships with high-value customers through loyalty programs, personalized offers, and premium customer service. Additionally, analyze the purchasing behavior of these customers and apply successful strategies to increase the value of other customer segments.
+
+
