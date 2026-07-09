@@ -26,13 +26,16 @@ This project analyzes retail sales data using Python to discover business insigh
 - ✅ KPI Analysis
 - ✅ Sales by Category Visualization
 
+## Project Progress
+
+- ✅ Sales Analysis
+- ✅ Profit Analysis
+- ✅ Discount Analysis
+- ✅ Rating Analysis
+
 ## Upcoming Work
 
-- Sales Analysis
-- Profit Analysis
 - Customer Analysis
 - Product Analysis
-- Discount Analysis
-- Rating Analysis
 - SQL Analysis
 - Power BI Dashboard
