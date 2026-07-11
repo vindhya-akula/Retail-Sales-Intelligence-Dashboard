@@ -9,8 +9,8 @@ This project analyzes retail sales data using Python to discover business insigh
 - Python
 - Pandas
 - Matplotlib
-- SQL (Coming Soon)
 - Power BI (Coming Soon)
+- SQL (Coming Soon)
 
 ## Dataset
 
@@ -31,11 +31,14 @@ This project analyzes retail sales data using Python to discover business insigh
 - ✅ Sales Analysis
 - ✅ Profit Analysis
 - ✅ Discount Analysis
-- ✅ Rating Analysis
+- ✅ Customer Rating Analysis
+- ✅ Customer Analysis
+- ✅ Payment Analysis
+- ✅ Order Satus Analysis
+- ✅ Top Product Performance Analysis
 
 ## Upcoming Work
 
-- Customer Analysis
-- Product Analysis
-- SQL Analysis
 - Power BI Dashboard
+- SQL Analysis
+
