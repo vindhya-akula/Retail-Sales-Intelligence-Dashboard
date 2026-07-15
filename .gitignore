@@ -3,3 +3,12 @@ __pycache__/
 .ipynb_checkpoints/
 Business_Insights_and_Observations.md
 
+*.pyc
+*.pyo
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+
+*.tmp
