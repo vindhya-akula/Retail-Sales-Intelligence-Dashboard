@@ -22,7 +22,7 @@ This project analyzes retail sales data to identify key business trends and prov
 
 ---
 
-# 📂 Dataset Description
+#  Dataset Description
 
 The dataset contains retail transaction records, including:
 
@@ -43,7 +43,7 @@ The dataset contains retail transaction records, including:
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 ### Programming
 - Python
@@ -65,7 +65,7 @@ The dataset contains retail transaction records, including:
 
 ---
 
-# 📈 Python Analysis
+#  Python Analysis
 
 Performed:
 
@@ -81,7 +81,7 @@ Performed:
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 The interactive dashboard consists of **three pages**.
 
@@ -138,19 +138,19 @@ Analyzes product sales and profitability.
 
 ## Executive Overview
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Executive_Overview.png.png)
 
 ---
 
 ## Customer Insights
 
-![Customer Insights](Images/Customer_Insights.png)
+![Customer Insights](https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Customer_Insights.png.png)
 
 ---
 
 ## Product Performance
 
-![Product Performance](Images/Product_Performance.png)
+![Product Performance](https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Product_Performance.png.png)
 
 ---
 
@@ -168,7 +168,7 @@ Analyzes product sales and profitability.
 
 - Top customers contributed significantly to overall revenue.
 - Customer sales and profit showed a strong positive relationship.
-- South region had the highest customer base.
+- The South region had the highest customer base.
 
 ### Product Performance
 
@@ -178,7 +178,7 @@ Analyzes product sales and profitability.
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 Retail-Sales-Intelligence-Dashboard/
@@ -198,7 +198,7 @@ Retail-Sales-Intelligence-Dashboard/
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ### Python Analysis
 
