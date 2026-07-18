@@ -138,21 +138,15 @@ Analyzes product sales and profitability.
 
 ## Executive Overview
 
-<a href = "https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Executive_Overview.png.png">Executive Overview</a>
-
----
+![Executive Overview](Images/Executive_Overview.png)
 
 ## Customer Insights
 
-<a href = "https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Customer_Insights.png.png">[Customer Insights]</a>
-
----
+![Customer Insights](Images/Customer_Insights.png)
 
 ## Product Performance
 
-![Product Performance](https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Product_Performance.png.png)
-
----
+![Product Performance](Images/Product_Performance.png)
 
 # Key Business Insights
 
