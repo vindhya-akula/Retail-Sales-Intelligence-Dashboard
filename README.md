@@ -138,7 +138,7 @@ Analyzes product sales and profitability.
 
 ## Executive Overview
 
-<a href = "https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Executive_Overview.png.png">[Executive Overview]</a>
+<a href = "https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Executive_Overview.png.png">Executive Overview</a>
 
 ---
 
@@ -150,8 +150,7 @@ Analyzes product sales and profitability.
 
 ## Product Performance
 
-<a href = "https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Product_Performance.png.png"> [Product Performance]</a>
-
+![Product Performance](https://github.com/vindhya-akula/Retail-Sales-Intelligence-Dashboard/blob/main/Images/Product_Performance.png.png)
 
 ---
 
